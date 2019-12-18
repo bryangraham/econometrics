@@ -6,6 +6,8 @@ permalink: /research/
 ### Working papers
 
 1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/NetworkData/NetworkDataChapter.pdf), 2019
+ * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
+ * [arXiv version](https://arxiv.org/abs/1912.06346)
  * __Note__: This is a draft chapter for the next volume of [_The Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) 
 <br/>
 <br/>  
@@ -21,7 +23,7 @@ permalink: /research/
  *  __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula) 
 <br/>
 <br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf), 2019 (w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) conditionally accepted by the _Journal of Econometrics_, 2019 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>

@@ -46,7 +46,7 @@ If you have any logistical questions please write [Fengshi Niu](fniu@berkeley.ed
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
 | 2:00 to 2:45 PM | Bin Yu (Berkeley, Statistics) | Three principles of data science: predictability, computability, and stability |
-| 2:45 to 3:30 PM | Guillaume Basse (Stanford, Statistics) | Estimating displacement effects of a hot spot policing intervention in Medellin, Columbia |
+| 2:45 to 3:30 PM | Guillaume Basse (Stanford, Statistics) | Minimax crossover designs for estimating learning and instantaneous effects |
 | 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Konrad Menzel (New York University, Economics) | Bootstrap with cluster-dependence in two or more dimensions |
