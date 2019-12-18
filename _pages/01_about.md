@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Image of Bryan S. Graham in 2015]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019_HighRes1.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}I am a Professor of [Economics](https://www.econ.berkeley.edu/) at the University of California - Berkeley. I began my career at Cal in 2005 and, after spending two years at the Economics Department of [New York University](http://econ.as.nyu.edu/page/home), returned in the Fall of 2011.
+![Image of Bryan S. Graham in 2019]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}I am a Professor of [Economics](https://www.econ.berkeley.edu/) at the University of California - Berkeley. I began my career at Cal in 2005 and, after spending two years at the Economics Department of [New York University](http://econ.as.nyu.edu/page/home), returned in the Fall of 2011.
 
 I am an econometrician with research interests in network formation, the identification of peer group effects, panel data and missing data problems (including those related to causal inference). My research has appeared in a variety of journals, including _Econometrica_ and the _Review of Economic Studies_. I am currently a co-editor at the [_Review of Economics and Statistics_](http://www.mitpressjournals.org/loi/rest).
 
