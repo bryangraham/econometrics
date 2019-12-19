@@ -7,7 +7,7 @@ permalink: /about/
 
 I am an econometrician with research interests in network formation, the identification of peer group effects, panel data and missing data problems (including those related to causal inference). My research has appeared in a variety of journals, including _Econometrica_ and the _Review of Economic Studies_. I am currently a co-editor at the [_Review of Economics and Statistics_](http://www.mitpressjournals.org/loi/rest).
 
-At Berkeley I teach econometrics at both the undergraduate and graduate levels. A full CV in pdf format is available [here]({{ site.url }}{{ site.baseurl}}/downloads/cv_BSG.pdf).
+At Berkeley I teach econometrics at both the undergraduate and graduate levels. A full CV in pdf format is available [here]({{ site.url }}{{ site.baseurl}}/downloads/cv_BSG.pdf). A high resolution photograph of myself can be found [here]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019_HighRes1.jpg) and [here]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019_HighRes2.jpg).
 
 * [Google Scholar Profile](https://scholar.google.com/citations?user=ff5UvfQAAAAJ&hl=en)
 * [ResearcherID Profile](https://publons.com/researcher/2765912/bryan-s-graham/)
