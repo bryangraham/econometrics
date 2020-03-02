@@ -28,17 +28,18 @@ _(Note: documents made available for personal study/use only)_
  * __Note__: Volume 7A of the [_Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) is currently forecasted to be appear in September 2020.
 <br/>
 <br/>  
-1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_ (Bryan Graham & Aureo de Paula, Eds.). Amsterdam: Academic Press, 2020.
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020.
  * [arXiv version](https://arxiv.org/abs/1908.09029)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
- * __Note__:  _The Econometric Analysis of Network Data_ currently forecasted to be appear in June 2020.
+ * __Note__:  _The Econometric Analysis of Network Data_ is currently forecasted to be appear in June 2020.
 <br/>
 <br/>  
-1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_ (Bryan Graham & Aureo de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican).
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican).
  * [arXiv version](https://arxiv.org/abs/1908.00099)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb)
- *  __Note__: _The Econometric Analysis of Network Data_ currently forecasted to be appear in June 2020. 
-
+ *  __Note__: _The Econometric Analysis of Network Data_ is currently forecasted to be appear in June 2020. 
+<br/>
+<br/>  
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_30April2018rev2.pdf) accepted by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/>    
