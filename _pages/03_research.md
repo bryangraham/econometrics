@@ -40,7 +40,8 @@ _(Note: documents made available for personal study/use only)_
  *  __Note__: _The Econometric Analysis of Network Data_ is currently forecasted to be appear in June 2020. 
 <br/>
 <br/>  
-2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_30April2018rev2.pdf) accepted by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v38n2_2020/JBES_v38n2_2020.pdf) _Journal of Business and Economic Statistics_ 38 (2): 303 - 316, 2020 (w/ Guido W. Imbens and Geert Ridder)    
+ * Also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper.
 <br/>
 <br/>    
 3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/BSG_JournalOfEconometrics_v206n2_2018.pdf) _Journal of Econometrics_ 206 (2): 305 - 335, 2018 (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
