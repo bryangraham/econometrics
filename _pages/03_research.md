@@ -29,8 +29,8 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>  
-1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}_The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
-   * __Note__: This is edited volume with contributions from an excellent group of researchers. Available from [Amazon](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) or your local book retailer.
+1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}[_The Econometric Analysis of Network Data_](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
+   * __Note__: This is edited volume with contributions from an excellent group of researchers.
 <br/>
 <br/>  
 1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
