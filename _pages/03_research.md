@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Teacher-to-classroom assignment and student achievement"](({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/MET_Teacher_Allocation_Paper.pdf) submitted, 2020 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
+  * [arXiv version](https://arxiv.org/abs/2007.02653)
+  * [cemmap version]()
+  * [nber version]()
+<br/>
+<br/> 
 2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) revision requested by the _Journal of Econometrics_, 2019 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
@@ -20,24 +26,27 @@ permalink: /research/
 <br/> 
 
 ### Publications
-
 _(Note: documents made available for personal study/use only)_
-1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/NetworkData/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
+<br/>
+<br/>  
+1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}_The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
+   * __Note__: This is edited volume with contributions from an excellent group of researchers. Available from [Amazon](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) or your local book retailer.
+<br/>
+<br/>  
+1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
  * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
  * [arXiv version](https://arxiv.org/abs/1912.06346)
- * __Note__: Volume 7A of the [_Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) is currently forecasted to be appear in September 2020.
+ * __Note__: Volume 7A of the [_Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) is currently forecasted to appear in September 2020.
 <br/>
 <br/>  
-1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
  * [arXiv version](https://arxiv.org/abs/1908.09029)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
- * __Note__:  _The Econometric Analysis of Network Data_ is currently forecasted to be appear in June 2020.
 <br/>
 <br/>  
-1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican)
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican)
  * [arXiv version](https://arxiv.org/abs/1908.00099)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb)
- *  __Note__: _The Econometric Analysis of Network Data_ is currently forecasted to be appear in June 2020. 
 <br/>
 <br/>  
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v38n2_2020/JBES_v38n2_2020.pdf) _Journal of Business and Economic Statistics_ 38 (2): 303 - 316, 2020 (w/ Guido W. Imbens and Geert Ridder)    
