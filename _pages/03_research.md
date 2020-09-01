@@ -4,10 +4,17 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) submitted, 2020 (w/ Andrin Pelican)
+  * [arXiv version]()
+  * [cemmap version]()
+  * [nber version]()
+  * Code to implement simulation algorithm on [GitHub](https://github.com/AndrinPelican/ugd) and [PyPi](https://pypi.org/project/ugd/)
+<br/>
+<br/> 
 1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/MET_Paper/MET_Teacher_Allocation_Paper.pdf) submitted, 2020 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
   * [arXiv version](https://arxiv.org/abs/2007.02653)
   * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
-  * [nber version]()
+  * [nber version](https://www.nber.org/papers/w27543)
 <br/>
 <br/> 
 2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) revision requested by the _Journal of Econometrics_, 2019 (w/ Fengshi Niu and James L. Powell)
