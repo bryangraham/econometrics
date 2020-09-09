@@ -5,9 +5,9 @@ permalink: /research/
 ---
 ### Working papers
 1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) submitted, 2020 (w/ Andrin Pelican)
-  * [arXiv version]()
-  * [cemmap version]()
-  * [nber version]()
+  * [arXiv version](http://arxiv.org/abs/2009.00212)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents/)
+  * [nber version](https://www.nber.org/papers/w27793)
   * Code to implement simulation algorithm on [GitHub](https://github.com/AndrinPelican/ugd) and [PyPi](https://pypi.org/project/ugd/)
 <br/>
 <br/> 
