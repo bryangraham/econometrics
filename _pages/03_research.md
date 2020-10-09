@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit.pdf) submitted, 2020
+  * [arXiv version]()
+  * [cemmap version]()
+  * [nber version]()
+<br/>
+<br/>
 1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) submitted, 2020 (w/ Andrin Pelican)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
   * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents/)
