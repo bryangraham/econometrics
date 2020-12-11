@@ -4,10 +4,13 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Minimax Risk and Uniform Convergence Rates for Nonparametric Dyadic Regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf), 2020 (w/ Fengshi Niu and James L. Powell)
+<br/>
+<br/>
 1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit.pdf) submitted, 2020
-  * [arXiv version]()
-  * [cemmap version]()
-  * [nber version]()
+  * [arXiv version](https://arxiv.org/abs/2010.04703)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression/)
+  * [nber version](https://www.nber.org/papers/w27962)
 <br/>
 <br/>
 1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) submitted, 2020 (w/ Andrin Pelican)
