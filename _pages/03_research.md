@@ -5,9 +5,10 @@ permalink: /research/
 ---
 ### Working papers
 1.  ["Minimax Risk and Uniform Convergence Rates for Nonparametric Dyadic Regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf), 2020 (w/ Fengshi Niu and James L. Powell)
+  * [arXiv version](https://arxiv.org/abs/2012.08444)
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit.pdf) submitted, 2020
+1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit.pdf) revision requested by _Econometrica_, 2020
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression/)
   * [nber version](https://www.nber.org/papers/w27962)
@@ -49,18 +50,18 @@ _(Note: documents made available for personal study/use only)_
    * __Note__: This is an edited volume with contributions from an outstanding group of researchers.
 <br/>
 <br/>  
-1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
+1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
  * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
  * [arXiv version](https://arxiv.org/abs/1912.06346)
- * __Note__: Volume 7A of the [_Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) is currently forecasted to appear in September 2020.
+ * __Note__: Link to Volume 7A of the [_Handbook of Econometrics_](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/7/part/PA)
 <br/>
 <br/>  
-1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_: 23 - 40 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
  * [arXiv version](https://arxiv.org/abs/1908.09029)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
 <br/>
 <br/>  
-1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_ (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican)
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), _The Econometric Analysis of Network Data_: 63 - 82 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020 (w/ Andrin Pelican)
  * [arXiv version](https://arxiv.org/abs/1908.00099)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb)
 <br/>
