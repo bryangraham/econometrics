@@ -5,8 +5,8 @@ permalink: /research/
 ---
 ### Working papers
 1.  ["Interview of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
-  * A few photos of Gary are are below:
-    [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_4.pdf), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_5.jpg) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_5.jpg)
+  * A few photos of Gary are are here:
+    [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_4.pdf), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_5.pdf) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/photo_6.jpg)
 <br/>
 <br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) submitted, 2020 (w/ Fengshi Niu and James L. Powell)
