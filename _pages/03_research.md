@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["Interview of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
+1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["Interview of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
   * A few photos of Gary are are here:
     [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
 <br/>
