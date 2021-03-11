@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Interview of Gary Chamberlain"({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Interview_transcript-final-2021-01-31.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
+1.  ["Interview of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
 <br/>
 <br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) submitted, 2020 (w/ Fengshi Niu and James L. Powell)
