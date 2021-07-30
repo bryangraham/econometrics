@@ -4,11 +4,6 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["Interview of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) submitted, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
-  * A few photos of Gary are are here:
-    [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
-<br/>
-<br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) submitted, 2020 (w/ Fengshi Niu and James L. Powell)
   * [arXiv version](https://arxiv.org/abs/2012.08444)
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
@@ -38,11 +33,6 @@ permalink: /research/
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_PaperAndAppendix.pdf) conditionally accepted by the _Journal of Econometrics_, 2018 (w/ Cristine Pinto)
-  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_WebAppendix.pdf)
-  * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
-<br/>
-<br/> 
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
@@ -52,6 +42,15 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>  
+1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain GARY CHAMBERLAIN"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) forthcoming in _Econometric Theory_, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
+  * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
+<br/>
+<br/>
+1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_MainPaper.pdf) forthcoming in the _Journal of Econometrics_, 2021 (w/ Cristine Pinto)
+  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_Supplement.pdf)
+  * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
+<br/>
+<br/> 
 1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}[_The Econometric Analysis of Network Data_](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
    * __Note__: This is an edited volume with contributions from an outstanding group of researchers.
 <br/>
