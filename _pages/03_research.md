@@ -15,7 +15,7 @@ permalink: /research/
   * [nber version](https://www.nber.org/papers/w27962)
 <br/>
 <br/>
-1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) revision requested by _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
+1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) revision requested by the _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
   * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents/)
   * [nber version](https://www.nber.org/papers/w27793)
@@ -36,8 +36,10 @@ permalink: /research/
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
-<br/> 
-
+<br/>
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by the _Quantitative Economics_, 2010 (w/ Guido Imbens and Geert Ridder)
+<br/>
+<br/>
 ### Publications
 _(Note: documents made available for personal study/use only)_
 <br/>
