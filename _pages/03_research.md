@@ -15,7 +15,7 @@ permalink: /research/
   * [nber version](https://www.nber.org/papers/w27962)
 <br/>
 <br/>
-1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) submitted, 2020 (w/ Andrin Pelican)
+1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) revision requested by _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
   * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents/)
   * [nber version](https://www.nber.org/papers/w27793)
@@ -42,7 +42,7 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>  
-1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_Interview.pdf) forthcoming in _Econometric Theory_, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
+1.  ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_ET_Interview.pdf) forthcoming in _Econometric Theory_, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
   * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
 <br/>
 <br/>
@@ -55,7 +55,7 @@ _(Note: documents made available for personal study/use only)_
    * __Note__: This is an edited volume with contributions from an outstanding group of researchers.
 <br/>
 <br/>  
-1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataChapter.pdf), _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
+1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataPublished.pdf), _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
  * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
  * [arXiv version](https://arxiv.org/abs/1912.06346)
  * __Note__: Link to Volume 7A of the [_Handbook of Econometrics_](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/7/part/PA)
