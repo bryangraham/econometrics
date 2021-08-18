@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) submitted, 2020 (w/ Fengshi Niu and James L. Powell)
+1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) revision requested by _Econometric Theory_, 2021 (w/ Fengshi Niu and James L. Powell)
   * [arXiv version](https://arxiv.org/abs/2012.08444)
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
 <br/>
