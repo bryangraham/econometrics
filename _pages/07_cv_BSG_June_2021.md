@@ -54,81 +54,81 @@ Phi Beta Kappa
 `Citation analysis:` [Google Scholar](https://scholar.google.com/citations?user=ff5UvfQAAAAJ&hl=en), [ResearcherID](http://www.researcherid.com/rid/H-4515-2011), [Scopus](http://www.scopus.com/authid/detail.uri?authorId=8221099400)
 
 ### Articles
-`2021` "ET Interview: Professor Gary Chamberlain," forthcoming in _Econometric Theory_ (with Keisuke Hirano and Guido W. Imbens).    
+`2021` [NA] "ET Interview: Professor Gary Chamberlain," forthcoming in _Econometric Theory_ (with Keisuke Hirano and Guido W. Imbens).    
 
-“Semiparametrically efficient estimation of the average linear regression function,” forthcoming in the _Journal of Econometrics_ (with Cristine Pinto).  
+[A+] “Semiparametrically efficient estimation of the average linear regression function,” forthcoming in the _Journal of Econometrics_ (with Cristine Pinto).  
  
-`2020` "Identification and efficiency bounds for the average match function under conditionally exogenous matching,” _Journal of Business and Economic Statistics_ 38 (2): 303 - 316 (with Guido W. Imbens and Geert Ridder).    
+`2020` [P+] "Identification and efficiency bounds for the average match function under conditionally exogenous matching,” _Journal of Business and Economic Statistics_ 38 (2): 303 - 316 (with Guido W. Imbens and Geert Ridder).    
     
-“Network data,” _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.) Amsterdam: North-Holland.   
+[AP+] “Network data,” _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.) Amsterdam: North-Holland.   
 
-"Introduction," _The Econometric Analysis of Network Data_: 1 – 22 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press (with Aureo de Paula).    
+[NAP] "Introduction," _The Econometric Analysis of Network Data_: 1 – 22 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press (with Aureo de Paula).    
 
-"Dyadic regression," _The Econometric Analysis of Network Data_: 23 - 40 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press.    
+[NAP] "Dyadic regression," _The Econometric Analysis of Network Data_: 23 - 40 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press.    
 
-"Testing for externalities in network formation using simulation," _The Econometric Analysis of Network Data_: 63 - 82 (B. Graham & A. de Paula, Eds.) Amsterdam: Academic Press (with Andrin Pelican).    
+[NAP] "Testing for externalities in network formation using simulation," _The Econometric Analysis of Network Data_: 63 - 82 (B. Graham & A. de Paula, Eds.) Amsterdam: Academic Press (with Andrin Pelican).    
 
-`2018` "Identifying and estimating neighborhood effects," _Journal of Economic Literature_ 56 (2) 450 - 500.
+`2018` [+] "Identifying and estimating neighborhood effects," _Journal of Economic Literature_ 56 (2) 450 - 500.
     
-“A quantile correlated random coefficients panel data model,” _Journal of Econometrics_ 206 (2): 305 - 335 (with Jinyong Hahn, Alex Poirier and Jim Powell).      
+[+] “A quantile correlated random coefficients panel data model,” _Journal of Econometrics_ 206 (2): 305 - 335 (with Jinyong Hahn, Alex Poirier and Jim Powell).      
 
-`2017` “An econometric model of network formation with degree heterogeneity," _Econometrica_ 85 (4): 1033 - 1063 (_Lead article_).
+`2017` [+] “An econometric model of network formation with degree heterogeneity," _Econometrica_ 85 (4): 1033 - 1063 (_Lead article_).
 
-`2016` “Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),” _Journal of Business and Economic Statistics_ 34 (2): 288 - 301 (with Cristine Pinto and Daniel Egel).
+`2016` [+] “Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),” _Journal of Business and Economic Statistics_ 34 (2): 288 - 301 (with Cristine Pinto and Daniel Egel).
 
-`2015` “Methods of identification in social networks,” _Annual Review of Economics_ 7 (1): 465 - 485.
+`2015` [+] “Methods of identification in social networks,” _Annual Review of Economics_ 7 (1): 465 - 485.
 
-`2014` “Complementarity and aggregate implications of assortative matching: a nonparametric analysis,” _Quantitative Economics_ 5 (1): 29 – 66 (with Guido Imbens and Geert Ridder).
+`2014` [+] “Complementarity and aggregate implications of assortative matching: a nonparametric analysis,” _Quantitative Economics_ 5 (1): 29 – 66 (with Guido Imbens and Geert Ridder).
 
-`2013` “Comparative static and computational methods for an empirical one-to-one transferable utility matching model,” _Advances in Econometrics_ 31: 151 – 179.
+`2013` [+] “Comparative static and computational methods for an empirical one-to-one transferable utility matching model,” _Advances in Econometrics_ 31: 151 – 179.
 
-"Comment on \`Social networks and the identification of peer effects\' by Paul Goldsmith-Pinkham and Guido W. Imbens," _Journal of Business and Economic Statistics_ 31 (3): 266 – 270.
+[+] "Comment on \`Social networks and the identification of peer effects\' by Paul Goldsmith-Pinkham and Guido W. Imbens," _Journal of Business and Economic Statistics_ 31 (3): 266 – 270.
 
-`2012` “Identification and estimation of average partial effects in \`irregular\' correlated random coefficient panel data models,” _Econometrica_ 80 (5): 2105 – 2152 (with James Powell).
+`2012` [+] “Identification and estimation of average partial effects in \`irregular\' correlated random coefficient panel data models,” _Econometrica_ 80 (5): 2105 – 2152 (with James Powell).
 
-“Inverse probability tilting for moment condition models with missing data,” _Review of Economic Studies_ 79 (3): 1053 – 1079 (with Cristine Pinto & Daniel Egel).
+[+] “Inverse probability tilting for moment condition models with missing data,” _Review of Economic Studies_ 79 (3): 1053 – 1079 (with Cristine Pinto & Daniel Egel).
 
-`2011` “Robustness to parametric assumptions in missing data models,” _American Economic Review: Papers & Proceedings_ 101 (3): 538 - 543 (with Keisuke Hirano). 
+`2011` [+] “Robustness to parametric assumptions in missing data models,” _American Economic Review: Papers & Proceedings_ 101 (3): 538 - 543 (with Keisuke Hirano). 
 
-“Efficiency bounds for missing data models with semiparametric restrictions,” _Econometrica_ 79 (2): 437 – 452.
+[+] “Efficiency bounds for missing data models with semiparametric restrictions,” _Econometrica_ 79 (2): 437 – 452.
 
-“Econometric methods for the analysis of assignment problems in the presence of complementarity and social spillovers,” _Handbook of Social Economics_ 1B: 965 – 1052 (J. Benhabib, M. O. Jacksons & A. Bisin, Eds.). Amsterdam: North-Holland.
+[+] “Econometric methods for the analysis of assignment problems in the presence of complementarity and social spillovers,” _Handbook of Social Economics_ 1B: 965 – 1052 (J. Benhabib, M. O. Jacksons & A. Bisin, Eds.). Amsterdam: North-Holland.
 
-`2009` “The incidental parameter problem in a non-differentiable panel data model,” _Economics Letters_ 105 (2): 181 – 182 (with Jinyong Hahn and James Powell).
+`2009` [+] “The incidental parameter problem in a non-differentiable panel data model,” _Economics Letters_ 105 (2): 181 – 182 (with Jinyong Hahn and James Powell).
 
-`2008` “Identifying social interactions through conditional variance restrictions,” _Econometrica_ 76 (3): 643 – 660.
+`2008` [+] “Identifying social interactions through conditional variance restrictions,” _Econometrica_ 76 (3): 643 – 660.
 
-`2006` “Rich nations, poor nations: how much can multiple equilibria explain?” _Journal of Economic Growth_ 11 (1): 5 – 41 (with Jonathan R.W. Temple) (_Lead article_).    
+`2006` [+] “Rich nations, poor nations: how much can multiple equilibria explain?” _Journal of Economic Growth_ 11 (1): 5 – 41 (with Jonathan R.W. Temple) (_Lead article_).    
 
-`2005` “Identification and estimation of the linear-in-means model of social interactions,” _Economics Letters_ 88 (1): 1 – 6 (with Jinyong Hahn) (_Lead article_).    
+`2005` [+] “Identification and estimation of the linear-in-means model of social interactions,” _Economics Letters_ 88 (1): 1 – 6 (with Jinyong Hahn) (_Lead article_).    
 
-`2003` “Longevity and life cycle savings,” _Scandinavian Journal of Economics_ 105 (3): 319 – 338 (with David E. Bloom and David Canning).
+`2003` [+] “Longevity and life cycle savings,” _Scandinavian Journal of Economics_ 105 (3): 319 – 338 (with David E. Bloom and David Canning).
 
-`1998` “Economic Growth in Papua New Guinea: Some Empirical Evidence,” _Pacific Economic Bulletin_ 13 (2): 158 – 165.
+`1998` [+] “Economic Growth in Papua New Guinea: Some Empirical Evidence,” _Pacific Economic Bulletin_ 13 (2): 158 – 165.
 
 ### Books & Reports
 
-`2020` _The Econometric Analysis of Network Data_. Amsterdam: Academic Press, 2020 (co-edited with Aureo de Paula).
+`2020` [NAP] _The Econometric Analysis of Network Data_. Amsterdam: Academic Press, 2020 (co-edited with Aureo de Paula).
  
-`2013` _Mobility and the Metropolis: The Relationship between Inequality in Urban Communities and Economic Mobility._ Washington D.C.: Pew Charitable Trusts (with Patrick Sharkey).
+`2013` [+] _Mobility and the Metropolis: The Relationship between Inequality in Urban Communities and Economic Mobility._ Washington D.C.: Pew Charitable Trusts (with Patrick Sharkey).
 
-`1998` _Exchange Rate Policy in Papua New Guinea._ Port Moresby, Papua New Guinea: Institute of National Affairs, 1998. (with Ronald Duncan and others).
+`1998` [+] _Exchange Rate Policy in Papua New Guinea._ Port Moresby, Papua New Guinea: Institute of National Affairs, 1998. (with Ronald Duncan and others).
 
 ### Submitted working papers          
 
-`2021` “Minimax risk and uniform convergence rates for nonparametric dyadic regression,” revision requested by _Econometric Theory_ (with Fengshi Niu and James L. Powell).    
+`2021` [NR&R] “Minimax risk and uniform convergence rates for nonparametric dyadic regression,” revision requested by _Econometric Theory_ (with Fengshi Niu and James L. Powell).    
   
-`2020` “Sparse network asymptotics for logistic regression,” revision requested by the _Econometrica_.        
+`2020` [NR&R] “Sparse network asymptotics for logistic regression,” revision requested by the _Econometrica_.        
 
-“An optimal test for strategic interaction in social and economic network formation between heterogeneous agents,” revision requested by the _Review of Economic Studies_ (with Andrin Pelican).    
+[NR&R] “An optimal test for strategic interaction in social and economic network formation between heterogeneous agents,” revision requested by the _Review of Economic Studies_ (with Andrin Pelican).    
 
-“Teacher-to-classroom assignment and student achievement,” (with Geert Ridder, Petra Thiemann and Gema Zamarro).
+[N] “Teacher-to-classroom assignment and student achievement,” (with Geert Ridder, Petra Thiemann and Gema Zamarro).
 
-`2019` “Kernel density estimation for undirected dyadic data,” revision requested by the _Journal of Econometrics_ (with Fengshi Niu and James L. Powell).   
+`2019` [NR&R] “Kernel density estimation for undirected dyadic data,” revision requested by the _Journal of Econometrics_ (with Fengshi Niu and James L. Powell).   
 
-`2016` “Homophily and transitivity in dynamic network formation,” revision requested by the _Review of Economic Studies_.  
+`2016` [R&R] “Homophily and transitivity in dynamic network formation,” revision requested by the _Review of Economic Studies_.  
 
-`2010` “Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach” revision requested by the _Quantitative Economics_ (with Guido Imbens and Geert Ridder).     
+`2010` [R&R] “Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach” revision requested by the _Quantitative Economics_ (with Guido Imbens and Geert Ridder).     
 
 ### Inactive manuscripts
 `2011` “Inverse probability tilting estimation of average treatment effects in Stata,” conditionally accepted by
@@ -219,6 +219,6 @@ Research Affiliate, Bureau for Research and Economic Analysis of Development
 `1997` Eastern Collegiate Athletic Conference Men's 3000m Indoor Track Champion    
 `1993` Maine State Class B Boy's 2 mile Indoor Track Champion 
 
-Last updated: July 2021 -->
+Last updated: June 30th, 2021 -->
 
 
