@@ -48,6 +48,7 @@ Assistant Professor, Department of Economics, University of California – Berke
 2. Fulbright Scholar, 1997
 
 ### Selected Grants
+1. National Science Foundation (SES #1851647) grant: “Semiparametric methods of policy analysis with social and economic network data” (PI) (272K), 2019 - 2021    
 1. National Science Foundation (SES #1357499) grant: “Econometric
 models for networks and matching with heterogeneous agents” (PI)
 (325K), 2015 - 2019
