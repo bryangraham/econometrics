@@ -5,7 +5,7 @@ date:   2021-10-12
 categories: econometrics conferences
 use_math: true
 ---
-On Friday November 19th, 2021 the Berkeley econometrics group will host the fourth annual “Berkeley-Stanford Econometrics Jamboree”. The  event will consist of a morning session of student presentations (9AM to 11:30AM) and an afternoon session of faculty presentations (2PM to 6PM). The morning session will take place in the legendary venue 639 Evans Hall. To accommdate a somewat larger group, the afternoon session will take place in 290 Hearst Memorial Mining Building. This magnificient building is adjacent to Evans Hall.  
+On Friday November 19th, 2021 the Berkeley econometrics group will host the fourth annual “Berkeley-Stanford Econometrics Jamboree”. The  event will consist of a morning session of student presentations (9AM to 11:30AM) and an afternoon session of faculty presentations (2PM to 6PM). The morning session will take place in the legendary venue 639 Evans Hall. To accommodate a somewat larger group, the afternoon session will take place in 290 Hearst Memorial Mining Building. This magnificient building is adjacent to Evans Hall.  
 
 Attendence is open to anyone from the Berkeley and Stanford data science communities (broadly and inclusively defined). Due to campus protocols regarding COVID-19, masks will be worn by all participants and no food or beverages will be provided. Berkeley affiliates are expected to meet all requirements for being on campus. Our Stanford guests should operate as if their own campus guidelines apply. The City of Berkeley requires proof of COVID-19 vaccination for indoor dining; so attendees (self-catered) lunch and dinner options will be greater if you bring such proof.
 
@@ -27,13 +27,13 @@ For our attendees coming from Stanford, Evans Hall is very close to the North Ga
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |
-| 9:00 to 9:20AM | Kevin Dano (Berkeley, Economics) |  TBA  |
+| 9:00 to 9:20AM | Kevin Dano (Berkeley, Economics) | Identification and Estimation of Social Effects in Endogenous Networks |
 | 9:20 to 9:40AM | Jake Soloff (Berkeley, Statistics) | Trimming the Fat: An Empirical Bayes Approach to Local False Discovery Rate Control |
-| 9:40 to 10:00AM | Nikos Ignatiadias (Stanford, Statistics) | TBA |
+| 9:40 to 10:00AM | Nikos Ignatiadias (Stanford, Statistics) | Noise-Induced Randomization in Regression Discontinuity Designs |
 | 10:00AM to 10:30AM | | Break |
 |  |  | **Session 2:** |
 | 10:30AM to 10:50AM | Tijana Zrnic (Berkeley, EECS) | Post-Selection Inference via Algorithmic Stability |
-| 10:50 to 11:10AM | Sanath Kumar Krishnamurthy (Stanford, Operations Research) | TBA |
+| 10:50 to 11:10AM | Sanath Kumar Krishnamurthy (Stanford, Operations Research) | Quantifying and Optimizing the Bias-Variance trade-off in Contextual Bandits |
 | 11:10 to 11:30AM | Evan Munro (Stanford, Economics) | Treatment Effects in Market Equilibrium | 
 | 11:30AM  | | Break for lunch (on your own)  |
 {:.mbtablestyle}                            
@@ -46,11 +46,11 @@ For our attendees coming from Stanford, Evans Hall is very close to the North Ga
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
 | 2:00 to 2:45 PM | Susan Athey (Stanford, GSB) | Federated Causal Inference |
-| 2:45 to 3:30 PM | Jingshen Wang (Berkeley, Biostatistics) | Mendelian Randomization |
+| 2:45 to 3:30 PM | Jingshen Wang (Berkeley, Biostatistics) | Breaking the Winner's Curse in Mendelian Randomization |
 | 3:30 to 3:45 PM | | Break  |
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Liyang Sun (CEMFI, Economics) | Inference with Many Weak Instruments |
-| 4:30 to 5:15 PM | TBD | TBD |
+| 4:30 to 5:15 PM | Guido Imbens (Stanford, GSB/Economics) | Multiple Randomization Designs | 
 | 5:15 to 6:00 PM |  TBD | TBD |
 | 6:00 PM  | | Adjorn |
 {:.mbtablestyle}
