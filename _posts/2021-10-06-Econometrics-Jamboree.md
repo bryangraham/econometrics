@@ -51,6 +51,5 @@ For our attendees coming from Stanford, Evans Hall is very close to the North Ga
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Liyang Sun (CEMFI, Economics) | Inference with Many Weak Instruments |
 | 4:30 to 5:15 PM | Guido Imbens (Stanford, GSB/Economics) | Multiple Randomization Designs | 
-| 5:15 to 6:00 PM |  TBD | TBD |
-| 6:00 PM  | | Adjorn |
+| 5:15 PM  | | Adjorn |
 {:.mbtablestyle}
