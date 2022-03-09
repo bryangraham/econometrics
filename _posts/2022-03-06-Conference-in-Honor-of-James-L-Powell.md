@@ -79,7 +79,7 @@ A preliminary conference program can be found below (subject to change). Speaker
 
 
 
-**Saturday, March 25th, 2022**
+**Saturday, March 26th, 2022**
 **B100 Blum Hall**    
 
 **Morning Session: 9AM to 12:15PM**    
