@@ -8,30 +8,30 @@ use_math: true
 On Friday and Saturday March 25th and 26th, 2022 the Center for the Application of Mathmatics and Statistics to Economics (CAMSE)
 will host a conference in Honor of the legendary James L. Powell. Attendence is by invitation only. 
 
-The conference will be held in room B100 of the Blum Center. Directions to Blum Hall can be found [here](https://cstms.berkeley.edu/locations/blum-hall-b100/). This link also includes information on how to get to campus.
+The conference will be held in room B100 of the Blum Center. Directions to Blum Hall can be found [here](https://cstms.berkeley.edu/locations/blum-hall-b100/). Information on transit options from SFO and OAK airports can be found [here](https://internationaloffice.berkeley.edu/living/transport_from_airports).
 
 Blum Hall is very close to the North Gate of campus. The nearest BART stop is Downtown Berkeley. The nearest public parking facility is the Lower Hearst / North Gate parking garage at the intersection of Scenic & Hearst (enter from Scenic to access hourly parking spaces). Blum Hall is also about a 10 to 15 minute walk (slightly uphill) from the conference hotel (the [Residence Inn by Marriott Berkeley](https://www.marriott.com/en-us/hotels/oakrr-residence-inn-berkeley/overview/?scid=635d1bd9-3cf2-4c95-9dad-35ac81b1349c&gclid=CjwKCAiA1JGRBhBSEiwAxXblwRdR5e9_rYDwwfdbZILCD8SiFimV3psGMXEAOGWQeaWC_O5k9-w07BoCbPkQAvD_BwE&gclsrc=aw.ds)).
 
 Instructions on how to join the conference by Zoom will be sent as we get closer the date.
 
-Campus and City of Berkeley COVID guidelines evolve regularly. As of March 7th, indoor masking by vaccinnated individuals is no longer required on campus (instead being strongly recommended). 
+Campus and the City of Berkeley COVID guidelines evolve regularly. As of March 7th, indoor masking by vaccinnated individuals is no longer required on campus (instead being strongly recommended). However a variety of other COVID related measures remain intact. More information on current campus COVID policies can be found [here](https://coronavirus.berkeley.edu/).
 
-The plan is to set up, weather permitting, coffee breaks and lunch outdoors. Eating outside has a number of advantages, one of which is that formal checking of vaccination status is not required. However all attendees should nevertheless bring proof of vaccination as it will be required to attend the conference dinner (also UC Berkeley has a vaccine mandate, even for conference attendees, so its a good idea to have some sort of proof on hand). More information on current campus COVID policies can be found [here](https://coronavirus.berkeley.edu/).
+The plan is to set up, weather permitting, coffee breaks and lunch outdoors. Eating outside has a number of advantages, one of which is that formal checking of vaccination status is not required. However all attendees should nevertheless bring proof of vaccination as it will be required to attend the conference dinner (also UC Berkeley has a vaccine mandate, even for conference attendees, so its a good idea to have some sort of proof on hand). 
 
 The conference dinner will be held at [Agrodolce Berkeley](https://www.agrodolceberkeley.com/) at 7PM (time to be confirmed). This event will be in a large indoor room. In addition to enjoying one anothers company, there will be an opportunity to share stories about, and expressions of gratitude for, Jim.
 
-A preliminary conference program can be found below (subject to change). Speakers should plan on presenting for approximately 20 minutes, five minutes of discussion, and questions and five minutes of transition time between speakers.
+A preliminary conference program can be found below (subject to change). Speakers should plan on presenting for approximately 20 minutes, allowing for five minutes of discussion and questions, and an additional five minutes of transition time between speakers.
 
 ## CAMSE Conference in Honor of James L. Powell Schedule
 **Organizers**    
-[_Bryan Graham_](bgraham@econ.berkeley.edu) 
-[_Hidehiko Ichimura_](ichimura@arizona.edu)
-[_Michael Jansson_](mjansson@econ.berkeley.edu )
-[_Shakeeb Khan_](shakeeb.khan@bc.edu)  
-[_Demian Pouzo_](dpouzo@berkeley.edu ) 
+[_Bryan Graham_](bgraham@econ.berkeley.edu)     
+[_Hidehiko Ichimura_](ichimura@arizona.edu)    
+[_Michael Jansson_](mjansson@econ.berkeley.edu )    
+[_Shakeeb Khan_](shakeeb.khan@bc.edu)      
+[_Demian Pouzo_](dpouzo@berkeley.edu )     
  
 
-**Friday, Barch 25th, 2022**
+**Friday, March 25th, 2022**
 **B100 Blum Hall**    
 
 **Morning Session: 9AM to 12:15PM**    
@@ -50,7 +50,9 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 12:15PM  to 1:45PM | | Lunch |
 {:.mbtablestyle}                            
 
-**Afternoon Session: 2PM to 5:15PM** 
+
+
+**Afternoon Session: 1:45PM to 5:15PM** 
 **B100 Blum Hall**   
 
 | _Time_              | _Speaker_         | _Title_               |
@@ -65,10 +67,16 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 4:00 to 4:30 PM | Jerry Hausman | Problems with the Control Variable Approach in Achieving Unbiased Estimates in Nonlinear Models in the Presence of Many Instruments | 
 | 4:30 PM  | | Adjorn |
 {:.mbtablestyle}
-
+ 
+ 
+ 
+ 
 **Conference Dinner: 7PM (time to be confirmed) @ [Agrodolce Berkeley](https://www.agrodolceberkeley.com/)** 
 **1730 Shattack Avenue**
 (about a 20-25 minute walk from Blum Hall as well as the hotel, or take Taxi/Uber)  
+
+
+
 
 
 **Saturday, March 25th, 2022**
@@ -94,81 +102,81 @@ A preliminary conference program can be found below (subject to change). Speaker
 |  |  | **Session 8: Experiments** |
 | 2:30PM to 3:00PM | Eric Auerbach | Spectral Regression for Networks, Panels, and Outcome Matrices |
 | 3:00PM to 3:30PM | Fengsi Niu | Error Components Models for Dyadic Data |
-| 3:30 PM  | | Adjorn |0
+| 3:30 PM  | | Adjorn |
 {:.mbtablestyle}         
 
 **Attending in Person**
-Maximilian Kasy
-Bryan Graham
-Ariel Pakes
-Carolina Caetano
-Demian Pouzo
-Matias Cattaneo
-Konrad Menzel
-Jack Porter
-Chris Shannon
-Jinyong	Hahn
-John Rust
-Eric Auerbach
-Esfandiar Maasoumi
-Andres Santos
-Vira Semenova
-Sergio Firpo
-Ying Zhu
-Xiaohong Chen
-Whitney	Newey
-Laura Chioda
-Andrew Chesher
-Isaiah Andrews
-Eric Mbakop
-Thomas Rothenberg
-Irene Botosaru
-Carlos Flores
-Hidehiko Ichimura
-Antonio	Galvao
-Chris Muris
-Yoosoon	Chang
-Oscar Jorda
-Gregorio Caetano
-Joel Horowitz
-David Card
-Sofia Villas-Boas
-Cheng Hsiao
-Shakeeb	Khan
-Graham Elliott
-James Powell
-Joon Park
-Fengshi	Niu
-Andres Aradillas-Lopez
-Tiemen Woutersen
-Guido Imbens
-Bo Honore
-Fred Finan
-Daniel McFadden
-Colin Cameron
-Hidehiko Ichimura
-Michael	Jansson
+Bryan Graham,
+Maximilian Kasy,
+Ariel Pakes,
+Carolina Caetano,
+Demian Pouzo,
+Matias Cattaneo,
+Konrad Menzel,
+Jack Porter,
+Chris Shannon,
+Jinyong Hahn,
+John Rust,
+Eric Auerbach,
+Esfandiar Maasoumi,
+Andres Santos,
+Vira Semenova,
+Sergio Firpo,
+Ying Zhu,
+Xiaohong Chen,
+Whitney Newey,
+Laura Chioda,
+Andrew Chesher,
+Isaiah Andrews,
+Eric Mbakop,
+Thomas Rothenberg,
+Irene Botosaru,
+Carlos Flores,
+Hidehiko Ichimura,
+Antonio Galvao,
+Chris Muris,
+Yoosoon	Chang,
+Oscar Jorda,
+Gregorio Caetano,
+Joel Horowitz,
+David Card,
+Sofia Villas-Boas,
+Cheng Hsiao,
+Shakeeb	Khan,
+Graham Elliott,
+James Powell,
+Joon Park,
+Fengshi Niu,
+Andres Aradillas-Lopez,
+Tiemen Woutersen,
+Guido Imbens,
+Bo Honore,
+Fred Finan,
+Daniel McFadden,
+Colin Cameron,
+Hidehiko Ichimura,
+Michael Jansson,
 Mikkel Soelvsten
 
 **Attending in Virtually**
-Donald Andrews
-Myoung Jae Lee
-Gary Solon
-Songnian Chen
-Ivana Komunjer
-Alexandre Poirier
-Roger Moon
-Elie Tamer
-Jerry Hausman
-Lars Hansen
-Serena Ng
-Cristine Pinto
-Elena Manresa
-Charles	Manski
-Geert Ridder
-James Heckman
-Richard	Crump
-Richard J. Smith
-Tomas Rau
-Nese Yildiz
+Donald Andrews,
+Myoung Jae Lee,
+Gary Solon,
+Songnian Chen,
+Ivana Komunjer,
+Alexandre Poirier,
+Roger Moon,
+Elie Tamer,
+Jerry Hausman,
+Lars Hansen,
+Serena Ng,
+Cristine Pinto,
+Elena Manresa,
+Charles Manski,
+Geert Ridder,
+James Heckman,
+Richard Crump,
+Richard J. Smith,
+Tomas Rau,
+Nese Yildiz,
 Petra Todd                   
