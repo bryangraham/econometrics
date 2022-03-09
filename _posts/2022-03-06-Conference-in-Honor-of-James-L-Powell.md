@@ -94,6 +94,7 @@ A preliminary conference program can be found below (subject to change). Speaker
 |  |  | **Session 6: High-Dimensional Models** |
 | 10:45AM to 11:15AM | Andres Aradillas-Lopez | Inference with Partially Identified Control Variables |
 | 11:15AM to 11:45PM | Cheng Hsiao | Statistical Inference for Low Dimensional Parameters in the Presence of High Dimensional Covariates |
+| 11:45AM to 12:15PM | Joel Horowitz | Bootstrap Based Asymptotic Refinements for High-Dimensional Nonlinear Models |
 | 12:15PM  to 1:15PM | | Lunch  |
 |  |  | **Session 7: Experiments** |
 | 1:15PM to 1:45PM | Max Kasy | Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability |
