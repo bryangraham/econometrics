@@ -5,7 +5,7 @@ date:   2022-03-06
 categories: econometrics conferences
 use_math: true
 ---
-On Friday and Saturday March 25th and 26th, 2022 the Center for the Application of Mathmatics and Statistics to Economics (CAMSE)
+On Friday and Saturday March 25th and 26th, 2022 the Center for the Application of Mathematics and Statistics to Economics (CAMSE)
 will host a conference in Honor of the legendary James L. Powell. Attendence is by invitation only. 
 
 The conference will be held in room B100 of the Blum Center. Directions to Blum Hall can be found [here](https://cstms.berkeley.edu/locations/blum-hall-b100/). Information on transit options from SFO and OAK airports can be found [here](https://internationaloffice.berkeley.edu/living/transport_from_airports).
