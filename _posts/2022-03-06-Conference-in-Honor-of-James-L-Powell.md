@@ -97,9 +97,9 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 12:15PM  to 1:15PM | | Lunch  |
 |  |  | **Session 7: Experiments** |
 | 1:15PM to 1:45PM | Max Kasy | Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability |
-| 1:45PM to 2:15PM | James Heckman | Orthogonal Designs for Causal Inference in Social Experiments |
+| 1:45PM to 2:15PM | James Heckman | Orthogonal Designs for Causal Inference in Social Experiments (tentative) |
 | 2:15PM to 2:30PM | | Coffee Break |
-|  |  | **Session 8: Experiments** |
+|  |  | **Session 8: Networks** |
 | 2:30PM to 3:00PM | Eric Auerbach | Spectral Regression for Networks, Panels, and Outcome Matrices |
 | 3:00PM to 3:30PM | Fengsi Niu | Error Components Models for Dyadic Data |
 | 3:30 PM  | | Adjorn |
