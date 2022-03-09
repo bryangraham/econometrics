@@ -63,7 +63,7 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 2:45 to 3:00 PM | | Coffee Break |
 |  |  | **Session 4: Instrumental Variables** |       
 | 3:00 to 3:30 PM | Marcelo Moreira | Efficiency Loss of Asymptotically Efficient Tests in an Instrumental Variables Regression |
-| 3:30 to 4:00 PM | Andrew Chesher | IV Models for Censored Outcomes | 
+| 3:30 to 4:00 PM | Andrew Chesher | IV Methods for Tobit Models | 
 | 4:00 to 4:30 PM | Jerry Hausman | Problems with the Control Variable Approach in Achieving Unbiased Estimates in Nonlinear Models in the Presence of Many Instruments | 
 | 4:30 PM  | | Adjorn |
 {:.mbtablestyle}
