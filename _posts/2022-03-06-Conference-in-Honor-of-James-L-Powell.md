@@ -31,8 +31,8 @@ A preliminary conference program can be found below (subject to change). Speaker
 [_Demian Pouzo_](dpouzo@berkeley.edu )     
  
 
-**Friday, March 25th, 2022**
-**B100 Blum Hall**    
+**Friday, March 25th, 2022**    
+**B100 Blum Hall**        
 
 **Morning Session: 9AM to 12:15PM**    
 
@@ -52,8 +52,8 @@ A preliminary conference program can be found below (subject to change). Speaker
 
 
 
-**Afternoon Session: 1:45PM to 5:15PM** 
-**B100 Blum Hall**   
+**Afternoon Session: 1:45PM to 5:15PM**     
+**B100 Blum Hall**       
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
@@ -79,8 +79,8 @@ A preliminary conference program can be found below (subject to change). Speaker
 
 
 
-**Saturday, March 26th, 2022**
-**B100 Blum Hall**    
+**Saturday, March 26th, 2022**    
+**B100 Blum Hall**        
 
 **Morning Session: 9AM to 12:15PM**    
 
@@ -100,8 +100,8 @@ A preliminary conference program can be found below (subject to change). Speaker
 
 
 
-**Afternoon Session: 1:15PM to 3:30PM** 
-**B100 Blum Hall**   
+**Afternoon Session: 1:15PM to 3:30PM**    
+ 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |    
 |  |  | **Session 7: Experiments** |
