@@ -52,7 +52,7 @@ A preliminary conference program can be found below (subject to change). Speaker
 
 
 
-**Afternoon Session: 1:45PM to 5:15PM**    
+**Afternoon Session: 1:45PM to 4:30PM**    
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
