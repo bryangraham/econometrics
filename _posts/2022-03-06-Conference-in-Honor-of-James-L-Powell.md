@@ -96,6 +96,14 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 11:15AM to 11:45PM | Cheng Hsiao | Statistical Inference for Low Dimensional Parameters in the Presence of High Dimensional Covariates |
 | 11:45AM to 12:15PM | Joel Horowitz | Bootstrap Based Asymptotic Refinements for High-Dimensional Nonlinear Models |
 | 12:15PM  to 1:15PM | | Lunch  |
+{:.mbtablestyle}                      
+
+
+
+**Afternoon Session: 1:15PM to 3:30PM** 
+**B100 Blum Hall**   
+| _Time_              | _Speaker_         | _Title_               |
+|:----------------|:--------------- |:--------------- |    
 |  |  | **Session 7: Experiments** |
 | 1:15PM to 1:45PM | Max Kasy | Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability |
 | 1:45PM to 2:15PM | James Heckman | Orthogonal Designs for Causal Inference in Social Experiments (tentative) |
@@ -124,7 +132,6 @@ Andres Santos,
 Vira Semenova,
 Sergio Firpo,
 Ying Zhu,
-Xiaohong Chen,
 Whitney Newey,
 Laura Chioda,
 Andrew Chesher,
@@ -157,10 +164,12 @@ Daniel McFadden,
 Colin Cameron,
 Hidehiko Ichimura,
 Michael Jansson,
-Mikkel Soelvsten
+Mikkel Soelvsten,
+Rosa Matzkin
 
 **Attending in Virtually**
 Donald Andrews,
+Xiaohong Chen,
 Myoung Jae Lee,
 Gary Solon,
 Songnian Chen,
