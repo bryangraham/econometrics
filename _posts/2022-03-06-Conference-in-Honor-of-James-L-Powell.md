@@ -92,7 +92,7 @@ A preliminary conference program can be found below (subject to change). Speaker
 | 10:00AM to 10:30AM | Lars Hansen | Risk, Ambiguity and Misspecification: Implications for Policy |
 | 10:30AM to 10:45AM | | Coffee Break |
 |  |  | **Session 6: High-Dimensional Models** |
-| 10:45AM to 11:15AM | Andres Santos | Inference with Partially Identified Control Variables |
+| 10:45AM to 11:15AM | Andres Aradillas-Lopez | Inference with Partially Identified Control Variables |
 | 11:15AM to 11:45PM | Cheng Hsiao | Statistical Inference for Low Dimensional Parameters in the Presence of High Dimensional Covariates |
 | 12:15PM  to 1:15PM | | Lunch  |
 |  |  | **Session 7: Experiments** |
