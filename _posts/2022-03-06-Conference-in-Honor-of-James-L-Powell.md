@@ -171,7 +171,9 @@ Rosa Matzkin,
 James Stock,
 David Ahn,
 Liyang Sun, 
-Patrick Kline
+Patrick Kline,
+Dmitry Arkhangelsky,
+Peng Ding
 
 
 **Attending in Virtually**
