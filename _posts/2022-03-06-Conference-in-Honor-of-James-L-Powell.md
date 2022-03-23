@@ -30,9 +30,10 @@ A preliminary conference program can be found below (subject to change). Speaker
 [_Shakeeb Khan_](shakeeb.khan@bc.edu)      
 [_Demian Pouzo_](dpouzo@berkeley.edu )     
  
- ### Thursday, March 24, 2022        
+ 
+### Thursday, March 24th, 2022        
  **Reception hosted by Dan and Bev McFadden, 6:30 to 9:30PM  (by invitation only)**    
- San Pablo Room, [Residence Inn by Marriott Berkeley](https://www.marriott.com/en-us/hotels/oakrr-residence-inn-berkeley/overview/?scid=635d1bd9-3cf2-4c95-9dad-35ac81b1349c&gclid=CjwKCAiA1JGRBhBSEiwAxXblwRdR5e9_rYDwwfdbZILCD8SiFimV3psGMXEAOGWQeaWC_O5k9-w07BoCbPkQAvD_BwE&gclsrc=aw.ds)   
+ Ashby Room, [Residence Inn by Marriott Berkeley](https://www.marriott.com/en-us/hotels/oakrr-residence-inn-berkeley/overview/?scid=635d1bd9-3cf2-4c95-9dad-35ac81b1349c&gclid=CjwKCAiA1JGRBhBSEiwAxXblwRdR5e9_rYDwwfdbZILCD8SiFimV3psGMXEAOGWQeaWC_O5k9-w07BoCbPkQAvD_BwE&gclsrc=aw.ds)   
  2121 Center St, Berkeley, CA 94704
  
 
