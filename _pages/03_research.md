@@ -15,22 +15,18 @@ permalink: /research/
   * [nber version](https://www.nber.org/papers/w27962)
 <br/>
 <br/>
-1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicInteractionTesting.pdf) revision requested by the _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
+1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicTestingPaper.pdf) resubmitted to the _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents/)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents-2/)
   * [nber version](https://www.nber.org/papers/w27793)
-  * Code to implement simulation algorithm on [GitHub](https://github.com/AndrinPelican/ugd) and [PyPi](https://pypi.org/project/ugd/)
+  * Python **uniform graph draw** module at [GitHub](https://github.com/AndrinPelican/ugd) and [PyPi](https://pypi.org/project/ugd/)
+  * Tutorial and replication [Python Jupyter Notebook](https://github.com/bryangraham/Testing_Networks)
 <br/>
 <br/> 
 1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/MET_Paper/MET_Teacher_Allocation_Paper.pdf) revision requested by the _Journal of Business and Economic Statistics_, 2020 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
   * [arXiv version](https://arxiv.org/abs/2007.02653)
   * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
   * [nber version](https://www.nber.org/papers/w27543)
-<br/>
-<br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) revision requested by the _Journal of Econometrics_, 2019 (w/ Fengshi Niu and James L. Powell)
- * [arXiv version](https://arxiv.org/abs/1907.13630)
- * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
@@ -43,7 +39,12 @@ permalink: /research/
 ### Publications
 _(Note: documents made available for personal study/use only)_
 <br/>
-<br/>  
+<br/>
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) accepted by the _Journal of Econometrics_, 2022 (w/ Fengshi Niu and James L. Powell)
+ * [arXiv version](https://arxiv.org/abs/1907.13630)
+ * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
+<br/>
+<br/> 
 1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Intro/BSG_Gary_Intro.pdf) forthcoming in _Journal of Econometrics_, 2021 (w/ Keisuke Hirano).
 <br/>
 <br/>    
