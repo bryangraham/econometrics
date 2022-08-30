@@ -22,13 +22,7 @@ permalink: /research/
   * Python **uniform graph draw** module at [GitHub](https://github.com/AndrinPelican/ugd) and [PyPi](https://pypi.org/project/ugd/)
   * Tutorial and replication [Python Jupyter Notebook](https://github.com/bryangraham/Testing_Networks)
 <br/>
-<br/> 
-1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/MET_Paper/MET_Teacher_Allocation_Paper.pdf) revision requested by the _Journal of Business and Economic Statistics_, 2020 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
-  * [arXiv version](https://arxiv.org/abs/2007.02653)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
-  * [nber version](https://www.nber.org/papers/w27543)
 <br/>
-<br/> 
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
@@ -40,19 +34,25 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
+1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/MET_Paper/MET_Teacher_Allocation_Paper.pdf) accepted by the _Journal of Business and Economic Statistics_, 2022 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
+  * [arXiv version](https://arxiv.org/abs/2007.02653)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
+  * [nber version](https://www.nber.org/papers/w27543)
+<br/>
+<br/> 
 2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_09Feb2022.pdf) accepted by the _Journal of Econometrics_, 2022 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Intro/BSG_Gary_Intro.pdf) forthcoming in _Journal of Econometrics_, 2021 (w/ Keisuke Hirano).
+1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Intro/BSG_Gary_Intro.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
 <br/>
 <br/>    
 2. ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_ET_Interview.pdf)  _Econometric Theory_: 1 - 26, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
   * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
 <br/>
 <br/>
-1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_MainPaper.pdf) forthcoming in the _Journal of Econometrics_, 2021 (w/ Cristine Pinto)
+1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_MainPaper.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
   * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_Supplement.pdf)
   * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
