@@ -45,28 +45,28 @@ _(Note: documents made available for personal study/use only)_
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Intro/BSG_Gary_Intro.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
-<br/>
-<br/>    
-2. ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/Gary_ET_Interview.pdf)  _Econometric Theory_: 1 - 26, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
-  * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	working_papers/Gary_Interview/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Gary_Interview/gary_6.jpg)
-<br/>
-<br/>
-1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_MainPaper.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
-  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_30July21_Supplement.pdf)
-  * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
+1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/JournalOfEconometrics_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
 <br/>
 <br/> 
-1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}[_The Econometric Analysis of Network Data_](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
-   * __Note__: This is an edited volume with contributions from an outstanding group of researchers.
+1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/JournalOfEconometrics_v226n1_2022b.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
+  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/AverageRegression_30July21_Supplement.pdf)
+  * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
 <br/>  
+2. ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/Gary_ET_Interview.pdf)  _Econometric Theory_: 1 - 26, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
+  * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	publications/EconometricTheory_2021/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_6.jpg)
+<br/>
+<br/>
 1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataPublished.pdf), _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
  * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
  * [arXiv version](https://arxiv.org/abs/1912.06346)
  * __Note__: Link to Volume 7A of the [_Handbook of Econometrics_](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/7/part/PA)
 <br/>
 <br/>  
+1. ![Image of Book Cover]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/NetworkBookCover.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}[_The Econometric Analysis of Network Data_](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1) (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
+   * __Note__: This is an edited volume with contributions from an outstanding group of researchers.
+<br/>
+<br/> 
 1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricsOfNetworksBook/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), _The Econometric Analysis of Network Data_: 23 - 40 (B. Graham & A. de Paula, Eds.). Amsterdam: Academic Press, 2020
  * [arXiv version](https://arxiv.org/abs/1908.09029)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
