@@ -45,10 +45,10 @@ _(Note: documents made available for personal study/use only)_
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/JournalOfEconometrics_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
+1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
 <br/>
 <br/> 
-1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/JournalOfEconometrics_v226n1_2022b.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
+1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022b.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
   * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/AverageRegression_30July21_Supplement.pdf)
   * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
