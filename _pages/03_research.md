@@ -9,7 +9,7 @@ permalink: /research/
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmmitted to _Econometrica_, 2022
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmmitted to _Econometrica_, 2022
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression/)
   * [nber version](https://www.nber.org/papers/w27962)
