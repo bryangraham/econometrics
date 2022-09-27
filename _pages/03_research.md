@@ -9,10 +9,11 @@ permalink: /research/
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit.pdf) revision requested by _Econometrica_, 2020
+1.  ["Sparse network asymptotics for logistic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmmitted to _Econometrica_, 2022
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression/)
   * [nber version](https://www.nber.org/papers/w27962)
+  * [Python Jupyter Notebook](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook.ipynb) with Monte Carlo results
 <br/>
 <br/>
 1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicTestingPaper.pdf) resubmitted to the _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
