@@ -4,14 +4,19 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Panel_Sequential_Moments.pdf) submitted, 2023 (w/ Stephane Bonhomme and Kevin Dano)
+  * [arXiv version]()
+  * [cemmap version]()
+<br/>
+<br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) revision requested by _Econometric Theory_, 2021 (w/ Fengshi Niu and James L. Powell)
   * [arXiv version](https://arxiv.org/abs/2012.08444)
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmmitted to _Econometrica_, 2022
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmitted to _Econometrica_, 2022
   * [arXiv version](https://arxiv.org/abs/2010.04703)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression/)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
   * [Python Jupyter Notebook](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook.ipynb) with Monte Carlo results
 <br/>
