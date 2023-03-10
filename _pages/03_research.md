@@ -5,8 +5,8 @@ permalink: /research/
 ---
 ### Working papers
 1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Panel_Sequential_Moments.pdf) submitted, 2023 (w/ Stephane Bonhomme and Kevin Dano)
-  * [arXiv version]()
-  * [cemmap version]()
+  * [arXiv version](http://arxiv.org/abs/2301.05733)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
 <br/>
 <br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) revision requested by _Econometric Theory_, 2021 (w/ Fengshi Niu and James L. Powell)
@@ -14,14 +14,14 @@ permalink: /research/
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) revision resubmitted to _Econometrica_, 2022
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) second revision requested by _Econometrica_, 2022
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
   * [Python Jupyter Notebook](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook.ipynb) with Monte Carlo results
 <br/>
 <br/>
-1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicTestingPaper.pdf) resubmitted to the _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
+1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicTestingPaper.pdf) second revision requested by _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
   * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents-2/)
   * [nber version](https://www.nber.org/papers/w27793)
@@ -33,7 +33,7 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/>
-2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by the _Quantitative Economics_, 2010 (w/ Guido Imbens and Geert Ridder)
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) submitted (2023), 2010 (w/ Guido Imbens and Geert Ridder)
 <br/>
 <br/>
 ### Publications

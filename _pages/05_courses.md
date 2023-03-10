@@ -5,57 +5,19 @@ permalink: /courses/
 ---
 Occassionally I teach short courses on econometric methods for the analysis of spillovers and network data. I have also taught standard microeconometric topics, including covariate adjustment, program evaluation and panel data. Courses typically emphasize both theory and practical computation.
 
-Selected materials from some of past courses are available below.
+Selected materials from some of past courses are available below (more materials, including those from older course iterations, can be found directly on [GitHub](https://github.com/bryangraham/short_courses).
 
 ### St. Galen Ph.D. Course on “Econometric methods for social spillovers and networks”
-University of St. Gallen, St. Gallen, Octover 1st to October 9th, 2018
+[University of St. Gallen](https://www.unisg.ch/en/), St. Gallen, Switzerland, October 3rd to October 10th, 2022
 
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Syllabus_St_Gallen_Networks_Oct2018.pdf)
-* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen/2018) of course materials (includes lecture notes, computer code and datasets)
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2022/Syllabus_Networks_StGallen_Fall2022.pdf)
+* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen/2022) of course materials    
 
-### University of Olso Department of Economics Course on "Econometric analysis of network data"
-[UiO](http://www.sv.uio.no/econ/english/), Olso, September 11th to 14th, 2017
+### CEMFI Short Course “An introduction to the econometrics of networks”
+[CEMFI](http://www.cemfi.es/), Madrid, Spain, November 28th to December 2nd, 2022    
 
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/Oslo/Syllabus_Olso_Networks_Sept2017.pdf)
-* [Slide Deck](https://github.com/bryangraham/short_courses/tree/master/Oslo/Slides)
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/CEMFI_Fall2022/Syllabus_Networks_CEMFI_Fall2022.pdf)
+* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/CEMFI_Fall2022) of course materials
 
-### Singapore Management University School of Economics Course on "Econometric analysis of network data"
-[SMU](https://economics.smu.edu.sg), Singapore, May 29th to June 2nd, 2017
-
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/SMU_CUHK/Syllabus_SMU_Networks_May2017.pdf)
-* [Slide Deck](https://github.com/bryangraham/short_courses/tree/master/SMU_CUHK/Slides)
-* [Python Notebooks](https://github.com/bryangraham/short_courses/tree/master/SMU_CUHK/Notebooks)
-
-### Georgetown Center for Econometric Practice Masterclass on "Econometric analysis of network data"
-[GCEP](https://econ.georgetown.edu/gcep/masterclasses), Washington D.C., May 8th and 9th, 2017
-
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/GCEP/Syllabus_GCEP_Networks_May2017.pdf)
-* [Slide Deck](https://github.com/bryangraham/short_courses/tree/master/GCEP/Lectures)
-
-### Université Catholique de Louvain/BeNet Course on "Econometric methods for networks"
-[UCL/CORE](https://be-net.github.io/2016/), Louvain, December 12th to 14th, 2016
-
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/CORE_Winter_School/Syllabus_CORE_Networks_Dec2016.pdf)
-* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/CORE_Winter_School) of course materials (includes lecture notes, computer code and datasets)
-
-### St. Galen Ph.D. Course on "Econometric methods for social spillovers and networks"
-[University of St. Gallen](http://www.sew.unisg.ch/en), St. Gallen, September 26th to October 3rd, 2016
-
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2016/Syllabus/Syllabus_St_Gallen_Networks_Sept2016.pdf)
-* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen/2016) of course materials (includes lecture notes, computer code and datasets)
-
-### CEMFI Summer School Course on "Empirical methods for program evaluation and networks"
-[CEMFI](http://www.cemfi.es/), Madrid, August 24th to 28th, 2015
-
-* [Syllabus]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Syllabus_CEMFI_SS_August2015.pdf)
-* [Lecture 1: Covariate Adjustment]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_1_Covariate_Adjustment.pdf)
-* [Lecture 2: Time-varying Treatments]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_2_G_Computation.pdf)
-* [Lecture 3: Bayesian Bootstrap]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_3_Bayesian_Bootstrap.pdf)
-* [Lecture 4: U Statistics]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_4_U_Statistics.pdf)
-* [Lecture 5: Matching]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_5_Matching.pdf)
-* [Lecture 6: Neighborhood Effects]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_6_Neighborhood_Effects.pdf)
-* [Lecture 7: Describing Networks]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_7_Describing_Networks.pdf)
-* [Lecture 8: Peer Effects on Networks]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_8_Peer_Effects.pdf)
-* [Lecture 9: Simulating Networks]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_9_Simulating_Networks.pdf)
 
 
