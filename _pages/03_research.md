@@ -4,9 +4,13 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Scenario Sampling for Large Supermodular Games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
+<br/>
+<br/>
 1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Panel_Sequential_Moments.pdf) submitted, 2023 (w/ Stephane Bonhomme and Kevin Dano)
   * [arXiv version](http://arxiv.org/abs/2301.05733)
   * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
+  * [GitHub repository](https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES) with replication code for numerical examples
 <br/>
 <br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) revision requested by _Econometric Theory_, 2021 (w/ Fengshi Niu and James L. Powell)
