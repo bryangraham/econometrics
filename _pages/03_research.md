@@ -7,7 +7,7 @@ permalink: /research/
 1.  ["Scenario Sampling for Large Supermodular Games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
 <br/>
 <br/>
-1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Panel_Sequential_Moments.pdf) submitted, 2023 (w/ Stephane Bonhomme and Kevin Dano)
+1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Draft_SERIES_revision.pdf) resubmitted to _SERIEs_, 2023 (w/ Stephane Bonhomme and Kevin Dano)
   * [arXiv version](http://arxiv.org/abs/2301.05733)
   * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
   * [GitHub repository](https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES) with replication code for numerical examples
@@ -37,7 +37,7 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/>
-2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) submitted (2023), 2010 (w/ Guido Imbens and Geert Ridder)
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by _Journal of Econometrics_ (2023), 2010 (w/ Guido Imbens and Geert Ridder)
 <br/>
 <br/>
 ### Publications
