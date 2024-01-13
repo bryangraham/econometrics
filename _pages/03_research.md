@@ -4,25 +4,21 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) second revision submitted to _Econometrica_, 2024
+  * [arXiv version](https://arxiv.org/abs/2010.04703)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
+  * [nber version](https://www.nber.org/papers/w27962)
+  * [Python Jupyter Notebook #1](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Empirical_Illustration.ipynb) with application and calibrated Monte Carlo results.  * 
+  * [Python Jupyter Notebook #2](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Monte_Carlo.ipynb) with additional Monte Carlo results.
+
+<br/>
+<br/>
 1.  ["Scenario Sampling for Large Supermodular Games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
-<br/>
-<br/>
-1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Panel_Sequential_Moments/Draft_SERIES_revision.pdf) resubmitted to _SERIEs_, 2023 (w/ Stephane Bonhomme and Kevin Dano)
-  * [arXiv version](http://arxiv.org/abs/2301.05733)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
-  * [GitHub repository](https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES) with replication code for numerical examples
 <br/>
 <br/>
 1.  ["Minimax risk and uniform convergence rates for nonparametric dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicNPRegression/DyadicNPRegression.pdf) revision requested by _Econometric Theory_, 2021 (w/ Fengshi Niu and James L. Powell)
   * [arXiv version](https://arxiv.org/abs/2012.08444)
   * [cemmap version](https://www.cemmap.ac.uk/publication/minimax-risk-and-uniform-convergence-rates-for-nonparametric-dyadic-regression/)
-<br/>
-<br/>
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev1c.pdf) second revision requested by _Econometrica_, 2022
-  * [arXiv version](https://arxiv.org/abs/2010.04703)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
-  * [nber version](https://www.nber.org/papers/w27962)
-  * [Python Jupyter Notebook](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook.ipynb) with Monte Carlo results
 <br/>
 <br/>
 1.  ["An optimal test for strategic interaction in social and economic network formation between heterogeneous agents"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/StrategicTestingPaper.pdf) second revision requested by _Review of Economic Studies_, 2020 (w/ Andrin Pelican)
@@ -37,25 +33,34 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/>
-2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by _Journal of Econometrics_ (2023), 2010 (w/ Guido Imbens and Geert Ridder)
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by _Journal of Econometrics_, 2010 (w/ Guido Imbens and Geert Ridder)
 <br/>
 <br/>
 ### Publications
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
-1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/MET_Paper/MET_Teacher_Allocation_Paper.pdf) accepted by the _Journal of Business and Economic Statistics_, 2022 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro
+1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/BSG_SERIES_v14n3-4_2023.pdf) _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 315 - 351 (with Stephane Bonhomme and Kevin Dano) _Special Issue in honor of Manuel Arellano_
+  * [arXiv version](http://arxiv.org/abs/2301.05733)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
+  * [GitHub repository](https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES) with replication code for numerical examples.
+<br/>
+<br/>
+1. "Foreward from the editors" for ["Identification in dynamic binary choice models"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/Chamberlain_SERIES_v14n3-4_2023.pdf) by Gary Chamberlain in _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 247 - 251 (with Stephane Bonhomme and Laura Hospido) _Special Issue in honor of Manuel Arellano_
+<br/>
+<br/>  
+1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v41n4_2023/BSG_JBES_v41n4_2023.pdf)  _Journal of Business and Economic Statistics_ 41 (4): 1328 - 1340, 2023 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro)
   * [arXiv version](https://arxiv.org/abs/2007.02653)
   * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
   * [nber version](https://www.nber.org/papers/w27543)
 <br/>
 <br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_09Feb2022.pdf) accepted by the _Journal of Econometrics_, 2022 (w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/BSG_JOE_Proof.pdf) forthcoming in the _Journal of Econometrics_, 2022 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano).
+1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano)
 <br/>
 <br/> 
 1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022b.pdf) _Journal of Econometrics_ 226 (1): 115 - 138, 2022 (w/ Cristine Pinto)
