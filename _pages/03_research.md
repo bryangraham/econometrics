@@ -8,9 +8,8 @@ permalink: /research/
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
-  * [Python Jupyter Notebook #1](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Empirical_Illustration.ipynb) with application and calibrated Monte Carlo results.  * 
+  * [Python Jupyter Notebook #1](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Empirical_Illustration.ipynb) with application and calibrated Monte Carlo results.     
   * [Python Jupyter Notebook #2](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Monte_Carlo.ipynb) with additional Monte Carlo results.
-
 <br/>
 <br/>
 1.  ["Scenario Sampling for Large Supermodular Games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
