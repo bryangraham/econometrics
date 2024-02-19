@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) second revision submitted to _Econometrica_, 2024
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) conditionally accepted at _Econometrica_, 2024
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
