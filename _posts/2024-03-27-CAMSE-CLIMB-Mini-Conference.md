@@ -14,7 +14,7 @@ A preliminary conference program can be found below
 ## CAMSE-CLIMB Mini-Conference
 **Organizers**    
 [_Bryan Graham_](bgraham@econ.berkeley.edu)    
-_With special thanks to:_ 
+_With special thanks to:_       
 [_Naomi Yamasaki_](naomiy@berkeley.edu)    
 [_Michael Jordan_](https://www2.eecs.berkeley.edu/Faculty/Homepages/jordan.html)    
  
@@ -27,12 +27,12 @@ _With special thanks to:_
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1: Labor Economics Seminar** |
 | 1:30PM to 2:30PM | Leonard Goff, University of Calgary, Economics | Treatment effects in bunching designs: the impact of mandatory overtime pay on hours |
-| 1:30PM to 1:45PM | Break | |
+| 1:30PM to 1:45PM | _Break_ | |
 |  |  | **Session 2: CS-Econ-Stat @Cal** |
 | 1:45PM to 2:30PM | Alejandro Schuler, UC - Berkeley, Biostatistics | Lassoed Tree Boosting |
 | 2:30PM to 3:15PM | Federico Echenique, UC - Berkeley, Economics | Stable matching as transportation |
 | 3:15PM to 4:00PM | Nika Haghtalab, UC - Berkeley, EECS | TBA |
-| 4:00PM to 4:30PM | | Coffee Break |
+| 4:00PM to 4:30PM | _Break_ | |
 |  |  | **Session 3: Econometrics Seminar** |       
 | 4:30PM to 5:30PM | Whitney Newey, MIT, Economics | TBA |
 {:.mbtablestyle}
