@@ -25,11 +25,11 @@ _With special thanks to:_
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-| 9:40AM to 10:00AM | Yixiang Luo, UC - Berkeley, Applied Mathematics | Estimating the FDR of Variable Selection |
+| 9:40AM to 10:00AM | TBA | TBA |
 | 10:00AM to 10:20AM | Dohyeong Ki, UC - Berkeley, Statistics | Totally Convex Regression |
 | 10:20AM to 10:40AM | Anand Kumar Siththaranjan, UC - Berkeley, EECS | [When can communication be informative?](https://anands29.github.io/assets/pdf/WhenCanCommunicationBeInformative.pdf) |
 | 10:40AM to 11:00AM | Keaton Ellis, UC - Berkeley, Simons Institute | The predictivity of theories of choice under uncertainty |
-| 11:00AM to 11:20AM | TBA | TBA |
+| 11:00AM to 11:20AM | Yixiang Luo, UC - Berkeley, Applied Mathematics | Estimating the FDR of variable selection |
 | 11:20AM to 11:40AM | Yassine Sbai-Sassi, UC - Berkeley, Economics | Average treatement effects for exchangeable random arrays |
 {:.mbtablestyle}
 
