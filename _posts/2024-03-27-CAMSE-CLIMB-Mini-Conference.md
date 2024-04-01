@@ -21,7 +21,20 @@ _With special thanks to:_
 ### Thursday, April 11th, 2024        
 **250 Sutardja Dai Hall**        
 
-**Afternoon Session: 1:30PM to 5:30PM**    
+**Morning Session: Students & Post-Docs Speakers, 9:40AM to 11:40AM**    
+
+| _Time_              | _Speaker_         | _Title_               |
+|:----------------|:--------------- |:--------------- |
+| 9:40AM to 10:00AM | Yixiang Luo, UC - Berkeley, Applied Mathematics | Estimating the FDR of Variable Selection |
+| 10:00AM to 10:20AM | Dohyeong Ki, UC - Berkeley, Statistics | Totally Convex Regression |
+| 10:20AM to 10:40AM | Anand Kumar Siththaranjan, UC - Berkeley, EECS | [When can communication be informative?](https://anands29.github.io/assets/pdf/WhenCanCommunicationBeInformative.pdf) |
+| 10:40AM to 11:00AM | Keaton Ellis, UC - Berkeley, Simons Institute | The predictivity of theories of choice under uncertainty |
+| 11:00AM to 11:20AM | TBA | TBA |
+| 11:20AM to 11:40AM | Yassine Sbai-Sassi, UC - Berkeley, Economics | Average treatement effects for exchangeable random arrays |
+{:.mbtablestyle}
+
+
+**Afternoon Session: Faculty Speakers, 1:30PM to 5:30PM**    
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
