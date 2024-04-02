@@ -9,7 +9,7 @@ On Thursday April 11th, 2024 the Center for the Application of Mathematics and S
 
 The conference will be held in room 250 of Sutardja Dai Hall on the north side of the UC Berkeley campus (close to the North Gate of campus). 
 
-A preliminary conference program can be found below
+A preliminary conference program can be found below.
 
 ## CAMSE-CLIMB Mini-Conference
 **Organizers**    
@@ -25,8 +25,8 @@ _With special thanks to:_
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-| 9:40AM to 10:00AM | TBA | TBA |
-| 10:00AM to 10:20AM | Dohyeong Ki, UC - Berkeley, Statistics | Totally Convex Regression |
+| 9:40AM to 10:00AM | Serena Wang, UC - Berkeley, EECS | Information elicitation in agency games |
+| 10:00AM to 10:20AM | Dohyeong Ki, UC - Berkeley, Statistics | Totally convex regression |
 | 10:20AM to 10:40AM | Anand Kumar Siththaranjan, UC - Berkeley, EECS | [When can communication be informative?](https://anands29.github.io/assets/pdf/WhenCanCommunicationBeInformative.pdf) |
 | 10:40AM to 11:00AM | Keaton Ellis, UC - Berkeley, Simons Institute | The predictivity of theories of choice under uncertainty |
 | 11:00AM to 11:20AM | Yixiang Luo, UC - Berkeley, Applied Mathematics | Estimating the FDR of variable selection |
