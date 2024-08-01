@@ -40,13 +40,14 @@ _With special thanks to:_
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1: Labor Economics Seminar** |
 | 1:30PM to 2:30PM | Leonard Goff, University of Calgary, Economics | [Treatment effects in bunching designs: the impact of mandatory overtime pay on hours](https://arxiv.org/pdf/2205.10310.pdf) |
-| 1:30PM to 1:45PM | _Break_ | |
+| 2:30PM to 2:45PM | _Break_ | |
 |  |  | **Session 2: CS-Econ-Stat @Cal** |
-| 1:45PM to 2:30PM | Alejandro Schuler, UC - Berkeley, Biostatistics | [Lassoed Tree Boosting](https://arxiv.org/pdf/2205.10697.pdf) |
-| 2:30PM to 3:15PM | Federico Echenique, UC - Berkeley, Economics | [Stable matching as transportation](https://arxiv.org/pdf/2402.13378.pdf) |
-| 3:15PM to 4:00PM | Nika Haghtalab, UC - Berkeley, EECS | Collaborative machine learning: optimization and incentives |
-| 4:00PM to 4:30PM | _Break_ | |
+| 2:45PM to 3:30PM | Alejandro Schuler, UC - Berkeley, Biostatistics | [Lassoed Tree Boosting](https://arxiv.org/pdf/2205.10697.pdf) |
+| 3:30PM to 4:15PM | Nika Haghtalab, UC - Berkeley, EECS | Collaborative machine learning: optimization and incentives |
+| 5:00PM to 5:30PM |
+| 4:15PM to 5:00PM | Federico Echenique, UC - Berkeley, Economics | [Stable matching as transportation](https://arxiv.org/pdf/2402.13378.pdf) |
+| 5:00PM to 5:30PM | _Break_ | |
 |  |  | **Session 3: Econometrics Seminar** |       
-| 4:30PM to 5:30PM | Whitney Newey, MIT, Economics | [Automatic Debiased Machine Learning via Riesz Regression](https://arxiv.org/pdf/2104.14737.pdf) |
+| 5:30PM to 6:30PM | Whitney Newey, MIT, Economics | [Automatic Debiased Machine Learning via Riesz Regression](https://arxiv.org/pdf/2104.14737.pdf) |
 {:.mbtablestyle}
  
