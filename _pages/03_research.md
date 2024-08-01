@@ -4,14 +4,6 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) conditionally accepted at _Econometrica_, 2024
-  * [arXiv version](https://arxiv.org/abs/2010.04703)
-  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
-  * [nber version](https://www.nber.org/papers/w27962)
-  * [Python Jupyter Notebook #1](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Empirical_Illustration.ipynb) with application and calibrated Monte Carlo results.     
-  * [Python Jupyter Notebook #2](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Monte_Carlo.ipynb) with additional Monte Carlo results.
-<br/>
-<br/>
 1.  ["Scenario Sampling for Large Supermodular Games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
 <br/>
 <br/>
@@ -39,13 +31,26 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
-1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/BSG_SERIES_v14n3-4_2023.pdf) _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 315 - 351 (with Stephane Bonhomme and Kevin Dano) _Special Issue in honor of Manuel Arellano_
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) conditionally accepted at _Econometrica_, 2024
+  * [arXiv version](https://arxiv.org/abs/2010.04703)
+  * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
+  * [nber version](https://www.nber.org/papers/w27962)
+  * [Python Jupyter Notebook #1](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Empirical_Illustration.ipynb) with application and calibrated Monte Carlo results.     
+  * [Python Jupyter Notebook #2](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Monte_Carlo.ipynb) with additional Monte Carlo results.
+<br/>
+<br/>
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/BSG_JOE_Proof.pdf) _Journal of Econometrics_240 (2): Article 105336, 2024 (w/ Fengshi Niu and James L. Powell)
+ * [arXiv version](https://arxiv.org/abs/1907.13630)
+ * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
+<br/>
+<br/> 
+1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/BSG_SERIES_v14n3-4_2023.pdf) _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 315 - 351, 2023 (with Stephane Bonhomme and Kevin Dano) _Special Issue in honor of Manuel Arellano_
   * [arXiv version](http://arxiv.org/abs/2301.05733)
   * [cemmap version](https://www.cemmap.ac.uk/publication/identification-in-a-binary-choice-panel-data-model-with-a-predetermined-covariate/)
   * [GitHub repository](https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES) with replication code for numerical examples.
 <br/>
 <br/>
-1. "Foreward from the editors" for ["Identification in dynamic binary choice models"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/Chamberlain_SERIES_v14n3-4_2023.pdf) by Gary Chamberlain in _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 247 - 251 (with Stephane Bonhomme and Laura Hospido) _Special Issue in honor of Manuel Arellano_
+1. "Foreward from the editors" for ["Identification in dynamic binary choice models"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/Chamberlain_SERIES_v14n3-4_2023.pdf) by Gary Chamberlain in _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 247 - 251, 2023 (with Stephane Bonhomme and Laura Hospido) _Special Issue in honor of Manuel Arellano_
 <br/>
 <br/>  
 1.  ["Teacher-to-classroom assignment and student achievement"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v41n4_2023/BSG_JBES_v41n4_2023.pdf)  _Journal of Business and Economic Statistics_ 41 (4): 1328 - 1340, 2023 (w/ Geert Ridder, Petra Thiemann and Gema Zamarro)
@@ -53,12 +58,11 @@ _(Note: documents made available for personal study/use only)_
   * [cemmap version](https://www.cemmap.ac.uk/publication/id/14933)
   * [nber version](https://www.nber.org/papers/w27543)
 <br/>
-<br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/BSG_JOE_Proof.pdf) forthcoming in the _Journal of Econometrics_, 2022 (w/ Fengshi Niu and James L. Powell)
- * [arXiv version](https://arxiv.org/abs/1907.13630)
- * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
-<br/> 
+2. ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/Gary_ET_Interview.pdf)  _Econometric Theory_ 39: 1 - 26, 2023 (w/ Keisuke Hirano and Guido W. Imbens)
+  * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	publications/EconometricTheory_2021/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_6.jpg)
+<br/>
+<br/>
 1. ["Introduction to the Annals Issue in Honor of Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v226n1_2022/BSG_JOE_v226n1_2022a.pdf) _Journal of Econometrics_ 226 (1): 1 - 3, 2022 (w/ Keisuke Hirano)
 <br/>
 <br/> 
@@ -67,10 +71,6 @@ _(Note: documents made available for personal study/use only)_
   * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
 <br/>  
-2. ![Image of Gary]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5_small.png){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}["ET Interview: Professor Gary Chamberlain"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/Gary_ET_Interview.pdf)  _Econometric Theory_: 1 - 26, 2021 (w/ Keisuke Hirano and Guido W. Imbens)
-  * A few photos of Gary are are here: [photo_1]({{ site.url }}{{ site.baseurl}}/downloads/	publications/EconometricTheory_2021/gary_1.jpg), [photo_2]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_2.jpg), [photo_3]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_3.jpg), [photo_4]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_4.png), [photo_5]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_5.png) and [photo_6]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconometricTheory_2021/gary_6.jpg)
-<br/>
-<br/>
 1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfEconometrics_7A_2020/NetworkDataPublished.pdf), _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
  * [Cemmap Version](https://www.cemmap.ac.uk/publication/id/14640)
  * [arXiv version](https://arxiv.org/abs/1912.06346)
