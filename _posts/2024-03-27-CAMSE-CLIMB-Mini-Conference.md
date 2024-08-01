@@ -44,7 +44,6 @@ _With special thanks to:_
 |  |  | **Session 2: CS-Econ-Stat @Cal** |
 | 2:45PM to 3:30PM | Alejandro Schuler, UC - Berkeley, Biostatistics | [Lassoed Tree Boosting](https://arxiv.org/pdf/2205.10697.pdf) |
 | 3:30PM to 4:15PM | Nika Haghtalab, UC - Berkeley, EECS | Collaborative machine learning: optimization and incentives |
-| 5:00PM to 5:30PM |
 | 4:15PM to 5:00PM | Federico Echenique, UC - Berkeley, Economics | [Stable matching as transportation](https://arxiv.org/pdf/2402.13378.pdf) |
 | 5:00PM to 5:30PM | _Break_ | |
 |  |  | **Session 3: Econometrics Seminar** |       
