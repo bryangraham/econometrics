@@ -25,13 +25,15 @@ permalink: /research/
 <br/>
 <br/>
 2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) revision requested by _Journal of Econometrics_, 2010 (w/ Guido Imbens and Geert Ridder)
+  * Matlab [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/SegregationCode.zip) for replication of empirical illustration ( <ins>Warning:</ins> This code is 15 years old!).
+  * Matlab [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star_math.mat) data file. Data are also available in [Stata]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/allocation.dta) and [text]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star.out) formats.
 <br/>
 <br/>
 ### Publications
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) conditionally accepted at _Econometrica_, 2024
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf) accepted at _Econometrica_, 2024
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
