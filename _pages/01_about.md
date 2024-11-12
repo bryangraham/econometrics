@@ -44,9 +44,10 @@ Assistant Professor, Department of Economics, University of California – Berke
 5. “Identifying social interactions through conditional variance restrictions,” _Econometrica_ 76 (3): 643 – 660, 2008
 
 ### Selected Honors
-1. Review of Economic Studies Tour, 2005
-2. Rhodes Scholar, 1998
-2. Fulbright Scholar, 1997
+1. Elected Fellow of the International Associated of Applied Econometrics (IAAE), 2023
+2. Review of Economic Studies Tour, 2005
+3. Rhodes Scholar, 1998
+4. Fulbright Scholar, 1997
 
 ### Selected Grants
 1. National Science Foundation (SES #1851647) grant: “Semiparametric methods of policy analysis with social and economic network data” (PI) (272K), 2019 - 2021    
