@@ -29,7 +29,7 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
-2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"](https://www.nber.org/papers/w16499) accepted by the _Journal of Econometrics_, 2010 (w/ Guido Imbens and Geert Ridder)
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/Segregation_Paper_rev.pdf) accepted by the _Journal of Econometrics_, 2010 (w/ Guido Imbens and Geert Ridder)
   * Matlab [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/SegregationCode.zip) for replication of empirical illustration ( <ins>Warning:</ins> This code is 15 years old!).
   * Matlab [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star_math.mat) data file. Data are also available in [Stata]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/allocation.dta) and [text]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star.out) formats.
 <br/>
