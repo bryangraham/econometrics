@@ -30,7 +30,7 @@ _With special thanks to:_
 | 10:40AM to 11:00AM | _Break_ | |
 | 11:00AM to 11:20AM | Kaitlyn J. Lee, UC - Berkeley, Biostatistics | [RieszBoost: Gradient Boosting for Riesz Regression](https://arxiv.org/abs/2501.04871) |
 | 11:20AM to 11:40AM | Amar Venugopal, Stanford, Economics | [TBA]() |
-| 11:40AM to 12:00PM | Jason Weitze, Stanford, Economics | []() |
+| 11:40AM to 12:00PM | Jason Weitze, Stanford, Economics | [TBA]() |
 {:.mbtablestyle}
 
 
@@ -38,12 +38,12 @@ _With special thanks to:_
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-|  |  | **Session 1: TBA** |
+|  |  | **Session 1: Policy Analysis and Evaluation** |
 | 2:00PM to 2:30PM | Guido Imbens, Stanford, GSB & Economics | [Causal panel data models]() |
 | 2:30PM to 3:00PM | Quitze Valenzuela-Stookey, UC - Berkeley, Economics | [Mechanism reform: an application to child welfare](https://drive.google.com/file/d/1A1KpTEz1tMbgRCpHe1gBgzB-O7RqTUm1/view?usp=sharing) |
 | 3:00PM to 3:30PM | _Break_ | |
-|  |  | **Session 2: TBA** |
-| 3:30PM to 4:00PM | TBA | [TBA]() |
+|  |  | **Session 2: Causal Inference and Networks** |
+| 3:30PM to 4:00PM | Mengsi Gao, Berkeley, Econommics | [Endogenous Interference in Randomized Experiments](https://arxiv.org/abs/2412.02183) |
 | 4:00PM to 4:30PM | Lihua Lei, Stanford, GSB | [Causal clustering: design of cluster experiments under network interference]() |
 | 4:30PM to 4:45PM | _Break_ | |
 |  |  | **Session 3: Distinguished Guest Speaker** |       
