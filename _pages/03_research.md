@@ -15,7 +15,7 @@ permalink: /research/
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
-<br/>
+<br/>    
 ### Publications
 _(Note: documents made available for personal study/use only)_
 <br/>
@@ -34,7 +34,8 @@ _(Note: documents made available for personal study/use only)_
   * Matlab [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star_math.mat) data file. Data are also available in [Stata]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/allocation.dta) and [text]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star.out) formats.
 <br/>
 <br/>
-1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Sparse_Paper/BipartiteLogit_rev2a.pdf)  _Econometrica_ 92 (6): 1837 - 1868, 2024
+1.  ["Sparse network asymptotics for logistic regression under possible misspecification"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v92n6_2024/BSG_Econometrica_v92n6_2024.pdf)  _Econometrica_ 92 (6): 1837 - 1868, 2024 
+ * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v92n6_2024/BSG_Econometrica_v92n6_2024_Supplement.pdf) 
   * [arXiv version](https://arxiv.org/abs/2010.04703)
   * [cemmap version](https://www.cemmap.ac.uk/publication/sparse-network-asymptotics-for-logistic-regression-under-possible-misspecification/)
   * [nber version](https://www.nber.org/papers/w27962)
@@ -42,9 +43,9 @@ _(Note: documents made available for personal study/use only)_
   * [Python Jupyter Notebook #2](https://github.com/bryangraham/netrics/blob/master/Notebooks/Sparse_Network_Asymptotics_Notebook_Monte_Carlo.ipynb) with additional Monte Carlo results.
 <br/>
 <br/>
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/BSG_JOE_Proof.pdf) _Journal of Econometrics_240 (2): Article 105336, 2024 (w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v240n2_2024/BSG_JOE_v240n2_2024.pdf) _Journal of Econometrics_240 (2): Article 105336, 2024 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
- * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
+ * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v240n2_2024/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
 1.  ["Identification in a binary choice panel data model with a predetermined covariate"]({{ site.url }}{{ site.baseurl}}/downloads/publications/SERIEs_v14n3-4_2023/BSG_SERIES_v14n3-4_2023.pdf) _SERIEs: Journal of the Spanish Economic Association_ 14 (3-4): 315 - 351, 2023 (with Stephane Bonhomme and Kevin Dano) _Special Issue in honor of Manuel Arellano_

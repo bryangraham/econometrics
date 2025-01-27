@@ -5,7 +5,7 @@ date:   2024-03-27
 categories: econometrics conferences
 use_math: true
 ---
-On Thursday April 11th, 2024 the Center for the Application of Mathematics and Statistics to Economics (CAMSE) and the Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB) will host a half day mini-conference. The goal is to gather campus researchers at the intersection of economics, machine learning and statistics. Attendence is open to anyone from the Berkeley data science communities (broadly and inclusively defined). Registration is not required.
+On Thursday April 11th, 2024 the Center for the Application of Mathematics and Statistics to Economics (CAMSE) and the Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB) will host a one day mini-conference. The goal is to gather campus researchers at the intersection of economics, machine learning and statistics. Attendence is open to anyone from the Berkeley data science communities (broadly and inclusively defined). Registration is not required.
 
 The conference will be held in room 250 of Sutardja Dai Hall on the north side of the UC Berkeley campus (close to the North Gate of campus). 
 
@@ -34,7 +34,7 @@ _With special thanks to:_
 {:.mbtablestyle}
 
 
-**Afternoon Session: Faculty Speakers, 1:30PM to 5:30PM**    
+**Afternoon Session: Faculty Speakers, 1:30PM to 6:30PM**    
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
@@ -49,4 +49,3 @@ _With special thanks to:_
 |  |  | **Session 3: Econometrics Seminar** |       
 | 5:30PM to 6:30PM | Whitney Newey, MIT, Economics | [Automatic Debiased Machine Learning via Riesz Regression](https://arxiv.org/pdf/2104.14737.pdf) |
 {:.mbtablestyle}
- 
