@@ -24,13 +24,13 @@ _With special thanks to:_
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-| 9:40AM to 10:00AM | Lea Bottmer, Stanford, Economics  | [Synthetic control in disaggregated data settings]() |
-| 10:00AM to 10:20AM | Sara Neff, UC - Berkeley, Economics | [Model complexity and restrictiveness]() |
+| 9:40AM to 10:00AM | Sara Neff, UC - Berkeley, Economics | [Model complexity and restrictiveness]() |
+| 10:00AM to 10:20AM | Lea Bottmer, Stanford, Economics  | [Synthetic control in disaggregated data settings]() | 
 | 10:20AM to 10:40AM | Kunhe Yang, UC - Berkeley, Computer Science | [Leakage-robust Bayesian persuasion](https://arxiv.org/abs/2411.16624) |
 | 10:40AM to 11:00AM | _Break_ | |
 | 11:00AM to 11:20AM | Kaitlyn J. Lee, UC - Berkeley, Biostatistics | [RieszBoost: gradient boosting for Riesz regression](https://arxiv.org/abs/2501.04871) |
-| 11:20AM to 11:40AM | Amar Venugopal, Stanford, Economics | [TBA]() |
-| 11:40AM to 12:00PM | Jason Weitze, Stanford, Economics | [TBA]() |
+| 11:20AM to 11:40AM | Amar Venugopal, Stanford, Economics | [Causal inference on outcomes learned from text]() |
+| 11:40AM to 12:00PM | Jason Weitze, Stanford, Economics | [A predictive approach to structural identification]() |
 {:.mbtablestyle}
 
 
@@ -47,6 +47,6 @@ _With special thanks to:_
 | 4:00PM to 4:30PM | Lihua Lei, Stanford, GSB | [Causal clustering: design of cluster experiments under network interference]() |
 | 4:30PM to 4:45PM | _Break_ | |
 |  |  | **Session 3: Distinguished Guest Speaker** |       
-| 4:45PM to 5:45PM | Elena Manresa, NYU, Economics | []() |
+| 4:45PM to 5:45PM | Elena Manresa, NYU, Economics | [Adversarial Method of Moments]() |
 {:.mbtablestyle}
  
