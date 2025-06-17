@@ -24,7 +24,7 @@ _With special thanks to:_
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-| 9:40AM to 10:00AM | Sara Neff, UC - Berkeley, Economics | [Model complexity and restrictiveness]() |
+| 9:40AM to 10:00AM | Sara Neff, UC - Berkeley, Economics | [Model complexity and restrictiveness](https://drive.google.com/file/d/1D94kApmJRTnDDHBZyvfeYtjDREoru5f7/view?usp=drivesdk) |
 | 10:00AM to 10:20AM | Lea Bottmer, Stanford, Economics  | [Synthetic control in disaggregated data settings]() | 
 | 10:20AM to 10:40AM | Kunhe Yang, UC - Berkeley, Computer Science | [Leakage-robust Bayesian persuasion](https://arxiv.org/abs/2411.16624) |
 | 10:40AM to 11:00AM | _Break_ | |
