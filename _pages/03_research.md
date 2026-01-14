@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Moment restrictions for nonlinear panel data models with feedback"](https://arxiv.org/abs/2506.12569), 2025 (w/ Stephane Bonhomme and Kevin Dano)
+1.  ["Moment restrictions for nonlinear panel data models with feedback"](https://arxiv.org/abs/2506.12569), 2025 (w/ Stephane Bonhomme and Kevin Dano), also available as a [CEMMAP](https://cemmap.ac.uk/publication/moment-restrictions-for-nonlinear-panel-data-models-with-feedback/) Working paper
 <br/>
 <br/>
 1.  ["Scenario sampling for large supermodular games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
@@ -32,7 +32,7 @@ _(Note: documents made available for personal study/use only)_
   * Tutorial and replication [Python Jupyter Notebook](https://github.com/bryangraham/Testing_Networks)
 <br/>
 <br/>
-2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/Segregation_Paper_rev.pdf) accepted by the _Journal of Econometrics_, 2024 (w/ Guido Imbens and Geert Ridder)
+2. ["Measuring the effects of segregation in the presence of social spillovers: a nonparametric approach"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/Segregation_Paper_rev.pdf) accepted by the _Journal of Econometrics_ 252 (B): 106006, 2025 (w/ Guido Imbens and Geert Ridder)
   * Matlab [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/SegregationCode.zip) for replication of empirical illustration ( <ins>Warning:</ins> This code is 15 years old!).
   * Matlab [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star_math.mat) data file. Data are also available in [Stata]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/allocation.dta) and [text]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Segregation_Paper/star.out) formats.
 <br/>

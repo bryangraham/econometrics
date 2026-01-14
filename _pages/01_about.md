@@ -5,9 +5,11 @@ permalink: /about/
 ---
 ![Image of Bryan S. Graham in 2019]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019.jpg){:style="float: right;margin-right: 10px;margin-left: 10px;margin-top: 10px;margin-bottom: 10px;"}I am a Professor of [Economics](https://www.econ.berkeley.edu/) at the University of California - Berkeley. I began my career at Cal in 2005 and, after spending two years at the Economics Department of [New York University](http://econ.as.nyu.edu/page/home), returned in the Fall of 2011. I have also spent time as a visiting professor at [Zamorano University](https://www.zamorano.edu/), [Harvard University](https://economics.harvard.edu/) and the [Centro de Estudios Monetarios y Financieros (CEMFI)](https://www.cemfi.es/).
 
-I am an econometrician with research interests in network formation, the identification of peer group effects, panel data and missing data problems (including those related to causal inference). My research has appeared in a variety of journals, including _Econometrica_ and the _Review of Economic Studies_.  A survey of my work on "Network Data" appears in the most recent volume of the [_Handbook of Econometrics_](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/7/part/PA). I recently published a book with Aureo de Paula on [The Econometric Analysis of Network Data](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1). I was a co-editor at the [_Review of Economics and Statistics_](http://www.mitpressjournals.org/loi/rest) from 2014 to 2020.
+I am an econometrician with research interests in network formation, the identification of peer group effects, panel data and missing data problems (including those related to causal inference). My research has appeared in a variety of journals, including _Econometrica_ and the _Review of Economic Studies_.  A survey of my work on "Network Data" appears in the most recent volume of the [_Handbook of Econometrics_](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/7/part/PA). I recently published a book with Aureo de Paula on [The Econometric Analysis of Network Data](https://smile.amazon.com/Econometric-Analysis-Network-Data/dp/0128117710/ref=sr_1_1?dchild=1&keywords=The+Econometric+Analysis+of+Network+Data&qid=1594332006&sr=8-1). I was a co-editor at the [_Review of Economics and Statistics_](http://www.mitpressjournals.org/loi/rest) from 2014 to 2020; I am currently a co-editor at _Econometric Theory_.
 
 At Berkeley I teach econometrics at both the undergraduate and graduate levels. I completed my Ph.D. at Harvard University under the supervision of Gary Chamberlain. Prior to Harvard I studied at Oxford University as a Rhodes Scholar, the Australian National University as a Fulbright Scholar and Tufts University.
+
+I am an elected fellow of the _Econometric Society (ES)_ as well as the _International Associated of Applied Econometrics (IAAE)_.
 
 A full CV in pdf format is available [here]({{ site.url }}{{ site.baseurl}}/downloads/cv_BSG.pdf). A high resolution photograph of myself can be found [here]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019_HighRes1.jpg) and [here]({{ site.url }}{{ site.baseurl}}/downloads/photo_BSG_2019_HighRes2.jpg).
 
@@ -35,7 +37,8 @@ Assistant Professor, Department of Economics, New York University, 2009 - 2011
 Assistant Professor, Department of Economics, University of California – Berkeley, 2005 - 2011 _(on leave 2009 - 2011)_
 
 ### Selected Publications
-1. “Network data”, _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
+1. "Sparse network asymptotics for logistic regression under possible misspecification," _Econometrica_ 92 (6): 1837 - 1868, 2024     
+2. “Network data”, _Handbook of Econometrics_ 7A: 111 - 218 (S. Durlauf, L. Hansen, J. Heckman & R. Matzkin, Eds.). Amsterdam: North-Holland, 2020
 2. "An econometric model of network formation with degree heterogeneity,"_Econometrica_ 85 (4): 1033 - 1063, 2017 (_lead article_)
 2. "Identification and estimation of average partial effects in `irregular' correlated random coefficient panel data models," _Econometrica_ 80 (5): 2105 - 2152, 2012 (w/ James Powell)
 3. "Inverse probability tilting for moment condition models with missing data," _Review of Economic Studies_ 79 (3): 1053 - 1079, 2012 (w/ Cristine Pinto and Dan Egel) 
@@ -44,6 +47,7 @@ Assistant Professor, Department of Economics, University of California – Berke
 5. “Identifying social interactions through conditional variance restrictions,” _Econometrica_ 76 (3): 643 – 660, 2008
 
 ### Selected Honors
+1. Elected Fellow of the Econometric Society (ES), 2025    
 1. Elected Fellow of the International Associated of Applied Econometrics (IAAE), 2023
 2. Review of Economic Studies Tour, 2005
 3. Rhodes Scholar, 1998
