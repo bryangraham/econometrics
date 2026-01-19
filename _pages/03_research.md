@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1.  ["Moment restrictions for nonlinear panel data models with feedback"](https://arxiv.org/abs/2506.12569), 2025 (w/ Stephane Bonhomme and Kevin Dano)
+1.  ["Moment restrictions for nonlinear panel data models with feedback"](https://arxiv.org/abs/2506.12569), revision requested by _Econometrica_, 2025 (w/ Stephane Bonhomme and Kevin Dano), also available as a [CEMMAP](https://cemmap.ac.uk/publication/moment-restrictions-for-nonlinear-panel-data-models-with-feedback/) Working paper
 <br/>
 <br/>
 1.  ["Scenario sampling for large supermodular games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Scenario_Sampling/Scenario_Sampling.pdf), 2023 (w/ Andrin Pelican)
