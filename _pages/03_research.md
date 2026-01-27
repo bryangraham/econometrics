@@ -26,8 +26,8 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 <br/>
 <br/>
-1.  ["An optimal test for strategic interaction in network formation games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/Optimal_Testing_for_Strategic_Interaction_rev3.pdf) conditonally accepted by the _Review of Economic Studies_, 2024 (w/ Andrin Pelican)
-  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/Optimal_Testing_for_Strategic_Interaction_rev3_Supplemental_Appendix.pdf)
+1.  ["An optimal test for strategic interaction in network formation games"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/Optimal_Testing_for_Strategic_Interaction_rev4.pdf) conditonally accepted by the _Review of Economic Studies_, 2024 (w/ Andrin Pelican)
+  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/Testing_Paper/Optimal_Testing_for_Strategic_Interaction_rev4_Supplemental_Appendix.pdf)
   * [arXiv version](http://arxiv.org/abs/2009.00212)
   * [cemmap version](https://www.cemmap.ac.uk/publication/an-optimal-test-for-strategic-interaction-in-social-and-economic-network-formation-between-heterogeneous-agents-2/)
   * [nber version](https://www.nber.org/papers/w27793)
